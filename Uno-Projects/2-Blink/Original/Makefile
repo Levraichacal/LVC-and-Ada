@@ -15,5 +15,5 @@ upload: blink.hex
 
 clean:
 	avr-gnatclean -XMCU=atmega328p -Pblink
-	rm -f blink.elf blink.hex main.map
+	rm -f blink.elf blink.hex main.map -R objects
 

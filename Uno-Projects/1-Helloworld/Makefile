@@ -14,4 +14,4 @@ upload-uno: hello.hex
 
 clean:
 	avr-gnatclean -XMCU=$(MCU) -Phello.gpr
-	rm -f hello.hex hello.elf
+	rm -f hello.hex hello.elf main.map  -R objects
