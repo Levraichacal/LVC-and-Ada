@@ -29,6 +29,12 @@
 --                                                                          --
 ------------------------------------------------------------------------------
 
+-- Import et utilisation  des packages Ada nécessaires
+with AVR;
+with AVR.MCU;
+use AVR;
+
+
 package body GPIO is
 
    -- La valeur du port : Haut = true, Bas = false;
