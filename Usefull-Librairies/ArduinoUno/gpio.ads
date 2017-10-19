@@ -29,20 +29,28 @@
 --                                                                          --
 ------------------------------------------------------------------------------
 
-
--- Import et utilisation  des packages Ada nécessaires
-with AVR;
-with AVR.MCU;
-use AVR;
+with Interfaces;
+use Interfaces;
 
 package GPIO is
 
+   -- Enumeration of Arduino Pin
    type lvcPins is (D0,D1,D2,D3,D4,D5,D6,D7,D8,D9,D10,D11,D12,D13,A0,A1,A2,A3,A4,A5);
 
-   type lvcMode is (Input,Output);
+   -- Enumeration of port mode
+   type lvcMode is (Input,Output,AnalogOutput);
 
+   -- Procedure to attribute a mode for a pin Input, Output or analog output
    procedure PinMode(nomPort : lvcPins; modePort : lvcMode);
 
+   -- Procedure to write a level on a pin of Arduino (the port need to be initialise
+   -- thanks to the PinMode procedure.
    procedure DigitalWrite(nomPort : lvcPins; niveauPort : Boolean);
-   
+
+   -- Procedure to write an analog level on a nomport. The level should be between
+   -- 0 and 255 and it works for D3, D5, D6, D9, D10 and D11.
+   -- For the others, when the value is under 128 it's off, and when the
+   -- value is above or equal 128 it's on.
+   procedure AnalogWrite(nomPort : lvcPins; value : Unsigned_16);
+
 end GPIO;
