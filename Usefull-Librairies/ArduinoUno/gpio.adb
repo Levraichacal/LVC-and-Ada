@@ -90,6 +90,33 @@ package body GPIO is
    A4_M: Boolean renames MCU.DDRC_Bits (4);
    A5_M: Boolean renames MCU.DDRC_Bits (5);
 
+   -- La valeur sur l'entrée: Haut = true, Bas = false;
+   -- Les ports digitaux
+   D0_I: Boolean renames MCU.PIND_Bits (0);
+   D1_I: Boolean renames MCU.PIND_Bits (1);
+   D2_I: Boolean renames MCU.PIND_Bits (2);
+   D3_I: Boolean renames MCU.PIND_Bits (3);
+   D4_I: Boolean renames MCU.PIND_Bits (4);
+   D5_I: Boolean renames MCU.PIND_Bits (5);
+   D6_I: Boolean renames MCU.PIND_Bits (6);
+   D7_I: Boolean renames MCU.PIND_Bits (7);
+   D8_I: Boolean renames MCU.PINB_Bits (0);
+   D9_I: Boolean renames MCU.PINB_Bits (1);
+   D10_I: Boolean renames MCU.PINB_Bits (2);
+   D11_I: Boolean renames MCU.PINB_Bits (3);
+   D12_I: Boolean renames MCU.PINB_Bits (4);
+   D13_I: Boolean renames MCU.PINB_Bits (5);
+
+   -- Les ports analogiques
+   A0_I: Boolean renames MCU.PINC_Bits (0);
+   A1_I: Boolean renames MCU.PINC_Bits (1);
+   A2_I: Boolean renames MCU.PINC_Bits (2);
+   A3_I: Boolean renames MCU.PINC_Bits (3);
+   A4_I: Boolean renames MCU.PINC_Bits (4);
+   A5_I: Boolean renames MCU.PINC_Bits (5);
+
+   AnalogRef : analogReference := Default;
+
    procedure PinMode(nomPort : lvcPins; modePort : lvcMode) is
       mode : Boolean;
    begin
@@ -184,6 +211,35 @@ package body GPIO is
       end case;
    end DigitalWrite;
 
+   function DigitalRead(nomPort : lvcPins) return Boolean is
+      temp : Boolean := True;
+   begin
+      case nomPort is
+         when D0 => temp := D0_I;
+         when D1 => temp := D1_I;
+         when D2 => temp := D2_I;
+         when D3 => temp := D3_I;
+         when D4 => temp := D4_I;
+         when D5 => temp := D5_I;
+         when D6 => temp := D6_I;
+         when D7 => temp := D7_I;
+         when D8 => temp := D8_I;
+         when D9 => temp := D9_I;
+         when D10 => temp := D10_I;
+         when D11 => temp := D11_I;
+         when D12 => temp := D12_I;
+         when D13 => temp := D13_I;
+         when A0 => temp := A0_I;
+         when A1 => temp := A1_I;
+         when A2 => temp := A2_I;
+         when A3 => temp := A3_I;
+         when A4 => temp := A4_I;
+         when A5 => temp := A5_I;
+         when others => temp := False;
+      end case;
+      return temp;
+   end DigitalRead;
+
    function To_Uint8 is new Ada.Unchecked_Conversion (Target => Unsigned_8,
                                                       Source => Unsigned_16);
 
@@ -217,4 +273,91 @@ package body GPIO is
       end case;
    end AnalogWrite;
 
+   procedure SetAnalogReference(ARef : analogReference) is
+   begin
+      AnalogRef := ARef;
+   end SetAnalogReference;
+
+   -- Internal procedure to initiate on analog port.
+   -- use to simplify AnalogRead function
+   procedure InitAnalogPort(nomPort : lvcPins) is
+   begin
+      -- Set the prescaler to 128 for a maximum resolution
+      -- and activate the CAN
+      ADCSRA_Bits := (ADEN_Bit => True,
+                      ADPS0_Bit => True,
+                      ADPS1_Bit => True,
+                      ADPS2_Bit => True,
+                      others => False);
+
+      -- Set the Reference voltage
+      case AnalogRef is
+         when Default => ADMUX_Bits(REFS0_Bit) := True;
+            ADMUX_Bits(REFS1_Bit) := False;
+         when External => ADMUX_Bits(REFS0_Bit) := False;
+            ADMUX_Bits(REFS1_Bit) := False;
+         when Internal => ADMUX_Bits(REFS0_Bit) := True;
+            ADMUX_Bits(REFS1_Bit) := True;
+         when others => null;
+      end case;
+      -- Initiate the Analog port
+      case nomPort is
+         when A0 => ADMUX_Bits(MUX0_Bit) := False;
+            ADMUX_Bits(MUX1_Bit) := False;
+            ADMUX_Bits(MUX2_Bit) := False;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A1 => ADMUX_Bits(MUX0_Bit) := True;
+            ADMUX_Bits(MUX1_Bit) := False;
+            ADMUX_Bits(MUX2_Bit) := False;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A2 => ADMUX_Bits(MUX0_Bit) := False;
+            ADMUX_Bits(MUX1_Bit) := True;
+            ADMUX_Bits(MUX2_Bit) := False;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A3 => ADMUX_Bits(MUX0_Bit) := True;
+            ADMUX_Bits(MUX1_Bit) := True;
+            ADMUX_Bits(MUX2_Bit) := False;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A4 => ADMUX_Bits(MUX0_Bit) := False;
+            ADMUX_Bits(MUX1_Bit) := False;
+            ADMUX_Bits(MUX2_Bit) := True;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A5 => ADMUX_Bits(MUX0_Bit) := True;
+            ADMUX_Bits(MUX1_Bit) := False;
+            ADMUX_Bits(MUX2_Bit) := True;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A6 => ADMUX_Bits(MUX0_Bit) := False;
+            ADMUX_Bits(MUX1_Bit) := True;
+            ADMUX_Bits(MUX2_Bit) := True;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when A7 => ADMUX_Bits(MUX0_Bit) := True;
+            ADMUX_Bits(MUX1_Bit) := True;
+            ADMUX_Bits(MUX2_Bit) := True;
+            ADMUX_Bits(MUX3_Bit) := False;
+         when others => null;
+      end case;
+   end InitAnalogPort;
+
+   function AnalogRead (nomPort : lvcPins) return Unsigned_16 is
+      temp: Unsigned_16 := 0;
+   begin
+      case nomPort is
+         when D0 | D1| D2| D3| D4| D5| D6| D7| D8| D9| D10 | D11 | D12 | D13 =>
+            if(DigitalRead(nomPort) = False) then
+               temp := 0;
+            else
+               temp := 1023;
+            end if;
+         when A0 | A1 | A2 | A3 | A4 | A5 |A6 |A7 =>
+            InitAnalogPort(nomPort);
+            ADCSRA_Bits(ADSC_Bit) := True;
+            -- Wait the conversion
+            while(ADCSRA_Bits(ADSC_Bit)) loop
+               null;
+            end loop;
+            temp := ADC;
+         when others => temp := 0;
+      end case;
+      return temp;
+   end AnalogRead;
 end GPIO;
