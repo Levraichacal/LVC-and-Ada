@@ -1,0 +1,8 @@
+project AnalogEntry extends "avr_app" is
+	for Main use ("analogentry.adb");
+	for Object_Dir use "objects";
+	for Exec_Dir use ".";
+
+	for Source_Dirs use (".");
+
+end AnalogEntry;
