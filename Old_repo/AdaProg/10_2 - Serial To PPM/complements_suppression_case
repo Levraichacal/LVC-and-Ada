@@ -1,0 +1,122 @@
+   -- Mettre la valeur du pwm actuel sur l'OCR B et attendre un passage bas 0,3 ms en fin 5200 µs
+      case numeroServo is
+         when A1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := A2;
+         when A2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(1) >= PWM_Min) and (servo_width(1) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(1) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := B1;
+         when B1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := B2;
+         when B2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(2) >= PWM_Min) and (servo_width(2) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(2) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := C1;
+         when C1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := C2;
+         when C2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(3) >= PWM_Min) and (servo_width(3) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(3) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := D1;
+         when D1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := D2;
+         when D2 =>
+--            digitalWrite(D8,Low_lvl);
+            if ((servo_width(4) >= PWM_Min) and (servo_width(4) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(4) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := E1;
+         when E1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := E2;
+         when E2 =>
+--            digitalWrite(D8,Low_lvl);
+            if ((servo_width(5) >= PWM_Min) and (servo_width(5) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(5) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := F1;
+         when F1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := F2;
+         when F2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(6) >= PWM_Min) and (servo_width(6) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(6) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := G1;
+         when G1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := G2;
+         when G2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(7) >= PWM_Min) and (servo_width(7) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(7) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := H1;
+         when H1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 600; -- 300 µs
+            numeroServo := H2;
+         when H2 =>
+--            digitalWrite(D8, Low_lvl);
+            if ((servo_width(8) >= PWM_Min) and (servo_width(8) <= PWM_Max)) then
+               MCU.OCR1B := servo_width(8) - 600;
+            else
+               MCU.OCR1B := PWM_Saif; -- 1500 µs
+            end if;
+            numeroServo := Z1;
+         when Z1 =>
+--            digitalWrite(D8, High_lvl);
+            MCU.OCR1B := 10400; --5200 µs
+            numeroServo := A1;
+         when Z2 =>
+--            digitalWrite(D8, Low_lvl);
+            MCU.OCR1B := 10400; --5200 µs
+            numeroServo := A1;
+         when others =>
+            null; -- Normalement, on ne rentre jamais la!
+      end case;
+      
+      
+      
+
+      if(numeroServo < 9) then
+         MCU.OCR1B := MCU.OCR1B + servo_width(numeroServo) - PPM_Inter_Lengh;
+         Frameleft := Frameleft - servo_width(numeroServo);
+         numeroServo := numeroServo +1;
+      else
+         MCU.OCR1B := MCU.OCR1B + Frameleft - PPM_Inter_Lengh;
+         Frameleft := 40000;
+         numeroServo := 1;
+      end if;

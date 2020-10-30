@@ -1,0 +1,8 @@
+syntax: glob
+
+objects
+*.swp
+blink.elf
+main.map
+blink.hex
+

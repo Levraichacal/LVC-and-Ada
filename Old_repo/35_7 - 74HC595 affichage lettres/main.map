@@ -1,0 +1,1861 @@
+Archive member included because of file (symbol)
+
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                              /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o (ada__calendar__delays__delay_for)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                              b~test_74hc595.o (avr__real_time__clock_impl___elabb)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (_ada_avr__real_time__clock)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o) (avr__timer0__init_ctc)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (avr__real_time__Oadd)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (avr__int_img__u32_img)
+/opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (avr__sleep__set_mode)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__usmulhisi3)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__muluhisi3)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__mulshisi3)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__mulsi3)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o) (__udivmodqi4)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o) (__udivmodhi4)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__divmodsi4)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                              /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o (exit)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                              /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o (__tablejump2__)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                              b~test_74hc595.o (__do_copy_data)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o) (__do_clear_bss)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+                              /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o) (__umulhisi3)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+                              /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o) (__udivmodsi4)
+/opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o) (itoa)
+/opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x0000000000000000        0x0 b~test_74hc595.o
+ .data          0x0000000000000000        0x0 b~test_74hc595.o
+ .bss           0x0000000000000000        0x0 b~test_74hc595.o
+ .rodata.lib_affichageS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvc__pinmodeS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvc__pinmodeB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvc__pinsS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvc__digitalwriteS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvc__digitalwriteB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lvcS   0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lib_74hc595S
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.lib_74hc595B
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__sleepS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__sleepB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__atmega328pS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__mcuS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.ada__exceptionsS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.ada__exceptionsB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__timer0S
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__timer0B
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__interruptsS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__interruptsB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__configS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__clock_implS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__clock_implB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__clockS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__clockB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__delaysS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_time__delaysB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__stringsS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__int_imgS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__int_imgB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_timeS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avr__real_timeB
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.systemS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.system__unsigned_typesS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avrS   0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.avrB   0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.interfacesS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.adaS   0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.ada__calendarS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.ada__calendar__delaysS
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.test_74hc595B
+                0x0000000000000000        0x4 b~test_74hc595.o
+ .rodata.__gnat_ada_main_program_name
+                0x0000000000000000       0x12 b~test_74hc595.o
+ .rodata.__gnat_version
+                0x0000000000000000       0x14 b~test_74hc595.o
+ .data.ada_main_E
+                0x0000000000000000        0x2 b~test_74hc595.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .data.ada_E    0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .data.ada__calendar_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .data.interfaces_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__gcc_zcx_support
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__zcx_by_default
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__use_ada_main_program_name
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__suppress_standard_library
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__always_compatible_rep
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_long_shifts
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_compare
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_assign
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_aggregates
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_limits
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_probes
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_default
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__signed_zeros
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__preallocated_stacks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__machine_rounds
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__machine_overflows
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__frontend_layout
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__fractional_fixed_ops
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__exit_status_supported
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__duration_32_bits
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__denorm
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__configurable_run_time
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__command_line_args
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__backend_overflow_checks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__backend_divide_checks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__run_time_name
+                0x0000000000000000       0x1b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__default_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__max_interrupt_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__max_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__default_bit_order
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderN
+                0x0000000000000000        0x3 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderS
+                0x0000000000000000       0x1f /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__null_address
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__system_name
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__nameN
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__nameS
+                0x0000000000000000       0x10 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .data.system_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .text.__gnat_last_chance_handler
+                0x0000000000000000        0xa /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .text.ada__exceptions__raise_exception
+                0x0000000000000000        0xc /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .data.ada__exceptions__reset
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .rodata.ada__exceptions__null_id
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .data.ada__exceptions_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .text.system__unsigned_types__packed_bytes1IP
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .data.system__unsigned_types_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .text.ada__calendar__delays__timeIP
+                0x0000000000000000       0x54 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .data.ada__calendar__delays_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .data.lvc_E    0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcniveauN
+                0x0000000000000000        0x3 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcniveauS
+                0x0000000000000000        0x7 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcmodeN
+                0x0000000000000000        0x3 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcmodeS
+                0x0000000000000000        0xb /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcpinsN
+                0x0000000000000000       0x15 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .rodata.lvc__pins__lvcpinsS
+                0x0000000000000000       0x2c /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .data.lvc__pins_E
+                0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .text.lib_affichage__Tt_letterBIP
+                0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__space
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_9
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_8
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_7
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_6
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_5
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_4
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_3
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_2
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_1
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_0
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_z
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_y
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_x
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_w
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_v
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_u
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_t
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_s
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_r
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_q
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_p
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_o
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_n
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_m
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_l
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_k
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_j
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_i
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_h
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_g
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_f
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_e
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_d
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_c
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_b
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .rodata.lib_affichage__b_a
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .data.lib_affichage_E
+                0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .text.lib_74hc595__Tt_registerBIP
+                0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .text.lib_74hc595__t_74hc795IP
+                0x0000000000000000        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .text.lib_74hc595__init__2
+                0x0000000000000000        0xa /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .text.lib_74hc595__setregistervalue
+                0x0000000000000000        0xa /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__no_clock_source
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__no_prescaling
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_8
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_32
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_64
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_128
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_256
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_1024
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__init_normal
+                0x0000000000000000       0x16 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_normal
+                0x0000000000000000        0xe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_toggle
+                0x0000000000000000        0xe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_set
+                0x0000000000000000        0xe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_clear
+                0x0000000000000000        0xe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__stop
+                0x0000000000000000        0x8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__enable_interrupt_compare
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__enable_interrupt_overflow
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_overflow_at
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__interrupt_mask
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__prescale_reg
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__ctrl_reg
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__output_compare_reg
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__signal_overflow
+                0x0000000000000000        0xb /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__signal_compare
+                0x0000000000000000        0xb /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__count
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .data.avr__timer0_E
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.C5b.1521
+                0x0000000000000000       0x1f /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.C10b.1532
+                0x0000000000000000       0x20 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__timeIP
+                0x0000000000000000       0x54 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__julian_day
+                0x0000000000000000      0x15c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__julian_date
+                0x0000000000000000      0x17e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__hour
+                0x0000000000000000       0xb2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__minute
+                0x0000000000000000       0xe8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__sub_second
+                0x0000000000000000      0x106 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__second
+                0x0000000000000000       0xbe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds
+                0x0000000000000000       0x20 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds_of
+                0x0000000000000000        0xe /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split
+                0x0000000000000000      0x10c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split__3
+                0x0000000000000000       0x3c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split__2
+                0x0000000000000000       0x7a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__day
+                0x0000000000000000       0x24 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__month
+                0x0000000000000000       0x26 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__year
+                0x0000000000000000       0x26 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__day_of_week
+                0x0000000000000000       0x68 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_of
+                0x0000000000000000       0x96 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Oadd__2
+                0x0000000000000000       0x8e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Osubtract
+                0x0000000000000000       0x7a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Osubtract__2
+                0x0000000000000000       0xd0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Ole
+                0x0000000000000000       0x86 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Oge
+                0x0000000000000000       0x8c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Olt
+                0x0000000000000000       0x3e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__microseconds
+                0x0000000000000000       0x1c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__milliseconds
+                0x0000000000000000       0x18 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds__2
+                0x0000000000000000       0x1c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__minutes
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__hours
+                0x0000000000000000       0x10 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata        0x0000000000000000       0x34 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__image
+                0x0000000000000000       0x6c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_image
+                0x0000000000000000       0x48 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_image_short
+                0x0000000000000000       0x48 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__date_image
+                0x0000000000000000       0x30 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__date_image_short
+                0x0000000000000000       0x36 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__millisec_image
+                0x0000000000000000       0xec /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__millisec_image__2
+                0x0000000000000000       0x40 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__image__2
+                0x0000000000000000       0x48 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__fract_image
+                0x0000000000000000       0x18 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__value
+                0x0000000000000000       0x40 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__value__2
+                0x0000000000000000        0x8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__sum_days_in_month
+                0x0000000000000000       0x18 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__day_nameN
+                0x0000000000000000        0x8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__day_nameS
+                0x0000000000000000       0x32 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__time_last
+                0x0000000000000000        0x6 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__time_first
+                0x0000000000000000        0x6 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__tick
+                0x0000000000000000        0x4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .data.avr__real_time_E
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__nibble_hex_img
+                0x0000000000000000        0xc /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_c
+                0x0000000000000000       0x4c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_right
+                0x0000000000000000       0x3a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_99_right
+                0x0000000000000000       0x16 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_hex_img
+                0x0000000000000000       0x2e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u16_img_right
+                0x0000000000000000       0xae /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u32_img
+                0x0000000000000000       0x80 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u16_img
+                0x0000000000000000       0x84 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img
+                0x0000000000000000       0x9a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .data.avr__int_img_E
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .rodata.avr__int_img__dig_32
+                0x0000000000000000       0x24 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__enable
+                0x0000000000000000        0x8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__disable
+                0x0000000000000000        0x8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__go_sleeping
+                0x0000000000000000       0x10 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__go_sleeping_if
+                0x0000000000000000       0x1a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_ctrl_bits
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_mode_tN
+                0x0000000000000000        0x7 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_mode_tS
+                0x0000000000000000       0x42 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .data.avr__sleep_E
+                0x0000000000000000        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0xe /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x16 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x10 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x18 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x28 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x38 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x18 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x44 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x42 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+LOAD b~test_74hc595.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+LOAD /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/libgnat.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0xbe2
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table._ada_test_74hc595
+                0x0000000000000068       0x76 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .progmem.gcc_sw_table.lvc__digitalwrite__digitalwrite
+                0x00000000000000de       0x28 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .progmem.gcc_sw_table.lvc__pinmode__pinmode
+                0x0000000000000106       0x28 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ *(.progmem*)
+                0x000000000000012e                . = ALIGN (0x2)
+                0x000000000000012e                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000000000000012e        0x0 linker stubs
+ *(.trampolines*)
+                0x000000000000012e                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000000000012e                __ctors_start = .
+ *(.ctors)
+                0x000000000000012e                __ctors_end = .
+                0x000000000000012e                __dtors_start = .
+ *(.dtors)
+                0x000000000000012e                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000000000012e        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x000000000000012e                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000000000012e        0xc /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000000000013a       0x16 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                0x000000000000013a                __do_copy_data
+ .init4         0x0000000000000150       0x10 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+                0x0000000000000150                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x0000000000000160        0x4 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x0000000000000164        0x2 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000164                __vector_22
+                0x0000000000000164                __vector_1
+                0x0000000000000164                __vector_24
+                0x0000000000000164                __vector_12
+                0x0000000000000164                __bad_interrupt
+                0x0000000000000164                __vector_6
+                0x0000000000000164                __vector_3
+                0x0000000000000164                __vector_23
+                0x0000000000000164                __vector_25
+                0x0000000000000164                __vector_11
+                0x0000000000000164                __vector_13
+                0x0000000000000164                __vector_17
+                0x0000000000000164                __vector_19
+                0x0000000000000164                __vector_7
+                0x0000000000000164                __vector_5
+                0x0000000000000164                __vector_4
+                0x0000000000000164                __vector_9
+                0x0000000000000164                __vector_2
+                0x0000000000000164                __vector_21
+                0x0000000000000164                __vector_15
+                0x0000000000000164                __vector_8
+                0x0000000000000164                __vector_10
+                0x0000000000000164                __vector_16
+                0x0000000000000164                __vector_18
+                0x0000000000000164                __vector_20
+                0x0000000000000166                . = ALIGN (0x2)
+ *(.text.*)
+ .text.adainit  0x0000000000000166       0x76 b~test_74hc595.o
+                0x0000000000000166                adainit
+ .text.startup.main
+                0x00000000000001dc        0x4 b~test_74hc595.o
+                0x00000000000001dc                main
+ .text._ada_test_74hc595
+                0x00000000000001e0      0x33e /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+                0x00000000000001e0                _ada_test_74hc595
+ .text.lvc__digitalwrite__digitalwrite
+                0x000000000000051e       0xf0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                0x000000000000051e                lvc__digitalwrite__digitalwrite
+ .text.lvc__pinmode__pinmode
+                0x000000000000060e       0xf8 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                0x000000000000060e                lvc__pinmode__pinmode
+ .text.lib_74hc595__clearregister
+                0x0000000000000706       0x14 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x0000000000000706                lib_74hc595__clearregister
+ .text.lib_74hc595__emptyregister
+                0x000000000000071a       0x16 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x000000000000071a                lib_74hc595__emptyregister
+ .text.lib_74hc595__writeregister
+                0x0000000000000730       0x4c /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x0000000000000730                lib_74hc595__writeregister
+ .text.lib_74hc595__init
+                0x000000000000077c       0x2a /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x000000000000077c                lib_74hc595__init
+ .text.lib_74hc595__writeregister__2
+                0x00000000000007a6       0x9a /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x00000000000007a6                lib_74hc595__writeregister__2
+ .text.ada__calendar__delays__delay_until
+                0x0000000000000840       0x9c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x0000000000000840                ada__calendar__delays__delay_until
+ .text.ada__calendar__delays__delay_for
+                0x00000000000008dc       0xa0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x00000000000008dc                ada__calendar__delays__delay_for
+ .text.__vector_14
+                0x000000000000097c       0x76 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x000000000000097c                __vector_14
+ .text.avr__real_time__clock_impl___elabb
+                0x00000000000009f2        0xa /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x00000000000009f2                avr__real_time__clock_impl___elabb
+ .text._ada_avr__real_time__clock
+                0x00000000000009fc       0x42 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                0x00000000000009fc                _ada_avr__real_time__clock
+ .text.avr__timer0__init_ctc
+                0x0000000000000a3e       0x1a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                0x0000000000000a3e                avr__timer0__init_ctc
+ .text.avr__real_time__Oadd
+                0x0000000000000a58       0x9a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                0x0000000000000a58                avr__real_time__Oadd
+ .text.avr__real_time__Ogt
+                0x0000000000000af2       0x82 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                0x0000000000000af2                avr__real_time__Ogt
+ .text.avr__sleep__set_mode
+                0x0000000000000b74       0x5e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                0x0000000000000b74                avr__sleep__set_mode
+ .text.libgcc   0x0000000000000bd2        0xc /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                0x0000000000000bd2                __tablejump2__
+                0x0000000000000bd6                __tablejump__
+                0x0000000000000bde                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000bde        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000bde                exit
+                0x0000000000000bde                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000bde        0x4 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000be2                _etext = .
+
+.data           0x0000000000800100      0x6d0 load address 0x0000000000000be2
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.lvc__digitalwrite_E
+                0x0000000000800100        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                0x0000000000800100                lvc__digitalwrite_E
+ .data.lvc__pinmode_E
+                0x0000000000800102        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                0x0000000000800102                lvc__pinmode_E
+ .data.lib_74hc595_E
+                0x0000000000800104        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                0x0000000000800104                lib_74hc595_E
+ .data.avr__real_time__delays_E
+                0x0000000000800106        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x0000000000800106                avr__real_time__delays_E
+ .data.avr__real_time__clock_impl_E
+                0x0000000000800108        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x0000000000800108                avr__real_time__clock_impl_E
+ .data.avr__real_time__clock_E
+                0x000000000080010a        0x2 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                0x000000000080010a                avr__real_time__clock_E
+ *(.rodata)
+ .rodata        0x000000000080010c      0x6c3 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x00000000008007d0                . = ALIGN (0x2)
+ *fill*         0x00000000008007cf        0x1 00
+                0x00000000008007d0                _edata = .
+                0x00000000008007d0                PROVIDE (__data_end, .)
+
+.bss            0x00000000008007d0        0x6
+                0x00000000008007d0                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.avr__real_time__clock_impl__now
+                0x00000000008007d0        0x6 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x00000000008007d0                avr__real_time__clock_impl__now
+ *(COMMON)
+                0x00000000008007d6                PROVIDE (__bss_end, .)
+                0x0000000000000be2                __data_load_start = LOADADDR (.data)
+                0x00000000000012b2                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008007d6        0x0
+                0x00000000008007d6                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00000000008007d6                PROVIDE (__noinit_end, .)
+                0x00000000008007d6                _end = .
+                0x00000000008007d6                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000      0x7bc
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ .stab          0x00000000000006cc       0x18 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                        0x1bc (size before relaxing)
+ .stab          0x00000000000006e4       0xd8 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                         0xe4 (size before relaxing)
+
+.stabstr        0x0000000000000000       0xb4
+ *(.stabstr)
+ .stabstr       0x0000000000000000       0xb4 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 b~test_74hc595.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .comment       0x0000000000000000       0x12 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x658
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 b~test_74hc595.o
+ .debug_aranges
+                0x0000000000000028       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_aranges
+                0x0000000000000040       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_aranges
+                0x0000000000000058       0x28 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_aranges
+                0x0000000000000080       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_aranges
+                0x0000000000000098       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .debug_aranges
+                0x00000000000000b0       0x18 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .debug_aranges
+                0x00000000000000c8       0x18 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .debug_aranges
+                0x00000000000000e0       0x20 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_aranges
+                0x0000000000000100       0x20 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_aranges
+                0x0000000000000120       0x20 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_aranges
+                0x0000000000000140       0x60 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_aranges
+                0x00000000000001a0       0x28 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_aranges
+                0x00000000000001c8       0x28 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_aranges
+                0x00000000000001f0       0x20 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_aranges
+                0x0000000000000210       0xa8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_aranges
+                0x00000000000002b8      0x160 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_aranges
+                0x0000000000000418       0x60 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_aranges
+                0x0000000000000478       0x40 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_aranges
+                0x00000000000004b8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_aranges
+                0x00000000000004d8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000000004f8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .debug_aranges
+                0x0000000000000518       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x0000000000000538       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_aranges
+                0x0000000000000558       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000578       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x0000000000000598       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x00000000000005b8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_aranges
+                0x00000000000005d8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x00000000000005f8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x0000000000000618       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x0000000000000638       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x516a
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x50c b~test_74hc595.o
+ .debug_info    0x000000000000050c       0x61 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_info    0x000000000000056d      0x308 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_info    0x0000000000000875      0x1bb /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_info    0x0000000000000a30       0x72 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_info    0x0000000000000aa2       0x2e /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .debug_info    0x0000000000000ad0      0x245 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .debug_info    0x0000000000000d15      0x33b /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .debug_info    0x0000000000001050      0x83b /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_info    0x000000000000188b      0x232 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_info    0x0000000000001abd      0x25a /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_info    0x0000000000001d17      0x52b /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_info    0x0000000000002242      0x24e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_info    0x0000000000002490      0x145 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_info    0x00000000000025d5       0xa9 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_info    0x000000000000267e      0x512 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_info    0x0000000000002b90     0x1409 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_info    0x0000000000003f99      0x7e1 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_info    0x000000000000477a      0x279 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_info    0x00000000000049f3       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_info    0x0000000000004a86       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x0000000000004b19       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .debug_info    0x0000000000004bac       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x0000000000004c3f       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x0000000000004cd2       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000004d65       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_info    0x0000000000004df8       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_info    0x0000000000004e8b       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_info    0x0000000000004f1e       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x0000000000004fb1       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x0000000000005044       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x00000000000050d7       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000     0x1815
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xf4 b~test_74hc595.o
+ .debug_abbrev  0x00000000000000f4       0x28 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_abbrev  0x000000000000011c       0x95 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_abbrev  0x00000000000001b1      0x149 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_abbrev  0x00000000000002fa       0x1b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_abbrev  0x0000000000000315       0x1d /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .debug_abbrev  0x0000000000000332       0x44 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .debug_abbrev  0x0000000000000376       0xa2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .debug_abbrev  0x0000000000000418      0x232 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_abbrev  0x000000000000064a       0xd3 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_abbrev  0x000000000000071d       0xe2 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_abbrev  0x00000000000007ff      0x1ab /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_abbrev  0x00000000000009aa      0x1af /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_abbrev  0x0000000000000b59      0x12c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_abbrev  0x0000000000000c85       0x8c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_abbrev  0x0000000000000d11      0x22f /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_abbrev  0x0000000000000f40      0x372 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_abbrev  0x00000000000012b2      0x279 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_abbrev  0x000000000000152b      0x1e6 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_abbrev  0x0000000000001711       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_abbrev  0x0000000000001725       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x0000000000001739       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .debug_abbrev  0x000000000000174d       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x0000000000001761       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x0000000000001775       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x0000000000001789       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x000000000000179d       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000017b1       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_abbrev  0x00000000000017c5       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000017d9       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000000017ed       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x0000000000001801       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_line     0x0000000000000000     0x1ad0
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xc1 b~test_74hc595.o
+ .debug_line    0x00000000000000c1        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .debug_line    0x00000000000000c1        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ .debug_line    0x00000000000000c1       0x1a /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_line    0x00000000000000db       0x36 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_line    0x0000000000000111       0x76 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_line    0x0000000000000187       0x1a /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_line    0x00000000000001a1       0x1a /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .debug_line    0x00000000000001bb        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+ .debug_line    0x00000000000001bb       0x1a /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+ .debug_line    0x00000000000001d5       0x89 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .debug_line    0x000000000000025e      0x18d /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_line    0x00000000000003eb      0x14c /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_line    0x0000000000000537      0x143 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_line    0x000000000000067a      0x178 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_line    0x00000000000007f2      0x18b /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_line    0x000000000000097d       0xf5 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_line    0x0000000000000a72       0xb0 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_line    0x0000000000000b22      0x29a /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_line    0x0000000000000dbc      0x473 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_line    0x000000000000122f      0x1ac /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_line    0x00000000000013db      0x16c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_line    0x0000000000001547       0x66 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_line    0x00000000000015ad       0x6a /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x0000000000001617       0x66 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+ .debug_line    0x000000000000167d       0x6f /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x00000000000016ec       0x6c /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x0000000000001758       0x74 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x00000000000017cc       0x7b /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line    0x0000000000001847       0x62 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_line    0x00000000000018a9       0x66 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_line    0x000000000000190f       0x6b /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x000000000000197a       0x68 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x00000000000019e2       0x6c /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000000000001a4e       0x82 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_frame    0x0000000000000000      0xd54
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 b~test_74hc595.o
+ .debug_frame   0x0000000000000034       0x34 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_frame   0x0000000000000068       0x24 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_frame   0x000000000000008c       0x34 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ .debug_frame   0x00000000000000c0       0x24 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+ .debug_frame   0x00000000000000e4       0x38 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_frame   0x000000000000011c       0x24 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_frame   0x0000000000000140       0x24 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_frame   0x0000000000000164      0x100 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_frame   0x0000000000000264       0x90 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_frame   0x00000000000002f4       0x58 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_frame   0x000000000000034c       0x34 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_frame   0x0000000000000380      0x134 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_frame   0x00000000000004b4      0x6f4 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_frame   0x0000000000000ba8      0x148 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_frame   0x0000000000000cf0       0x64 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug_str      0x0000000000000000     0x3b9a
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x7b6 b~test_74hc595.o
+                                        0x7cd (size before relaxing)
+ .debug_str     0x00000000000007b6      0x13b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+                                        0x149 (size before relaxing)
+ .debug_str     0x00000000000008f1      0x442 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+                                        0x4b7 (size before relaxing)
+ .debug_str     0x0000000000000d33      0x109 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+                                        0x1ad (size before relaxing)
+ .debug_str     0x0000000000000e3c      0x19b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+                                        0x1fe (size before relaxing)
+ .debug_str     0x0000000000000fd7       0x1b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+                                         0x9b (size before relaxing)
+ .debug_str     0x0000000000000ff2      0x94b /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+                                        0x974 (size before relaxing)
+ .debug_str     0x000000000000193d      0x38e /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+                                        0x3b5 (size before relaxing)
+ .debug_str     0x0000000000001ccb      0x49a /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+                                        0x5ba (size before relaxing)
+ .debug_str     0x0000000000002165      0x131 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                                        0x2d3 (size before relaxing)
+ .debug_str     0x0000000000002296       0xfd /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                                        0x2fa (size before relaxing)
+ .debug_str     0x0000000000002393      0x143 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                        0x458 (size before relaxing)
+ .debug_str     0x00000000000024d6      0x289 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                        0x39f (size before relaxing)
+ .debug_str     0x000000000000275f      0x111 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                        0x1fb (size before relaxing)
+ .debug_str     0x0000000000002870       0x4c /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                        0x14d (size before relaxing)
+ .debug_str     0x00000000000028bc      0x628 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                        0x7a6 (size before relaxing)
+ .debug_str     0x0000000000002ee4      0x82e /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                        0xa12 (size before relaxing)
+ .debug_str     0x0000000000003712      0x340 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                        0x4b3 (size before relaxing)
+ .debug_str     0x0000000000003a52      0x148 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                        0x363 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x333b
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x90 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_loc     0x0000000000000090       0xb4 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_loc     0x0000000000000144      0x1ab /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_loc     0x00000000000002ef      0x150 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_loc     0x000000000000043f      0x340 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_loc     0x000000000000077f      0x15f /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_loc     0x00000000000008de       0xbf /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_loc     0x000000000000099d       0x48 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_loc     0x00000000000009e5       0x42 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_loc     0x0000000000000a27     0x2151 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_loc     0x0000000000002b78      0x736 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_loc     0x00000000000032ae       0x8d /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(/home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/test_74hc595.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000      0x500
+ .debug_ranges  0x0000000000000000       0x18 b~test_74hc595.o
+ .debug_ranges  0x0000000000000018       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ .debug_ranges  0x0000000000000030      0x128 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ .debug_ranges  0x0000000000000158       0x10 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+ .debug_ranges  0x0000000000000168       0x10 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+ .debug_ranges  0x0000000000000178       0x50 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+ .debug_ranges  0x00000000000001c8       0x18 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_ranges  0x00000000000001e0       0x18 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_ranges  0x00000000000001f8       0x10 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_ranges  0x0000000000000208       0x98 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_ranges  0x00000000000002a0      0x168 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_ranges  0x0000000000000408       0xc8 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_ranges  0x00000000000004d0       0x30 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__bad_interrupt                                   /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+__data_end                                        /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__divmodsi4                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__do_clear_bss                                    /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_clear_bss.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+__do_copy_data                                    /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+                                                  b~test_74hc595.o
+__gnat_ada_main_program_name                      b~test_74hc595.o
+__gnat_last_chance_handler                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+__gnat_version                                    b~test_74hc595.o
+__heap_end                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__init                                            /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__mulohisi3                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__mulshisi3                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__mulsi3                                          /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__muluhisi3                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulsi3.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__stack                                           /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__tablejump2__                                    /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+__tablejump__                                     /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+__udivmodhi4                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+__udivmodqi4                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodqi4.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+__udivmodsi4                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_divmodsi4.o)
+__umulhisi3                                       /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_umulhisi3.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_muluhisi3.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+__usmulhisi3                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__usmulhisi3_tail                                 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_usmulhisi3.o)
+__vector_1                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+_ada_avr__real_time__clock                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+_ada_test_74hc595                                 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+                                                  b~test_74hc595.o
+_exit                                             /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+_hex_img::avr__int_img(void) __restrict           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+adaS                                              b~test_74hc595.o
+ada_E                                             /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ada__calendarS                                    b~test_74hc595.o
+ada__calendar_E                                   /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-calend.o
+ada__calendar__delaysS                            b~test_74hc595.o
+ada__calendar__delays_E                           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ada__calendar__delays__delay_for                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+ada__calendar__delays__delay_until                /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ada__calendar__delays__timeIP                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-caldel.o
+ada__exceptionsB                                  b~test_74hc595.o
+ada__exceptionsS                                  b~test_74hc595.o
+ada__exceptions_E                                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ada__exceptions__null_id                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ada__exceptions__raise_exception                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ada__exceptions__reset                            /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/a-except.o
+ada_main_E                                        b~test_74hc595.o
+adainit                                           b~test_74hc595.o
+avr(short, long,...)(...)(signed *)               b~test_74hc595.o
+avrB                                              b~test_74hc595.o
+avrS                                              b~test_74hc595.o
+avr__atmega328pS                                  b~test_74hc595.o
+avr__configS                                      b~test_74hc595.o
+avr__int_imgB                                     b~test_74hc595.o
+avr__int_imgS                                     b~test_74hc595.o
+avr__int_img_E                                    /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__nibble_hex_img                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u16_img                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u16_img_right                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u32_img                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__int_img__u8_img                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u8_img_99_right                     /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u8_img_c                            /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u8_img_right                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__interruptsB                                  b~test_74hc595.o
+avr__interruptsS                                  b~test_74hc595.o
+avr__mcuS                                         b~test_74hc595.o
+avr__real_timeB                                   b~test_74hc595.o
+avr__real_timeS                                   b~test_74hc595.o
+avr__real_time_E                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Oadd                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__real_time__Oadd__2                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Oge                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Ogt                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__real_time__Ole                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Olt                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Osubtract                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Osubtract__2                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__clockB                            b~test_74hc595.o
+avr__real_time__clockS                            b~test_74hc595.o
+avr__real_time__clock_E                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  b~test_74hc595.o
+avr__real_time__clock_implB                       b~test_74hc595.o
+avr__real_time__clock_implS                       b~test_74hc595.o
+avr__real_time__clock_impl_E                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  b~test_74hc595.o
+avr__real_time__clock_impl___elabb                /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  b~test_74hc595.o
+avr__real_time__clock_impl__now                   /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+avr__real_time__date_image                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__date_image_short                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_nameN                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_nameS                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_of_week                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__delaysB                           b~test_74hc595.o
+avr__real_time__delaysS                           b~test_74hc595.o
+avr__real_time__delays_E                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  b~test_74hc595.o
+avr__real_time__fract_image                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__hour                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__hours                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__image                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__image__2                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__julian_date                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__julian_day                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__microseconds                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__millisec_image                    /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__millisec_image__2                 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__milliseconds                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__minute                            /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__minutes                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__month                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__second                            /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds__2                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds_of                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split__2                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split__3                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__sub_second                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__sum_days_in_month                 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__tick                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__timeIP                            /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_first                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_image                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_image_short                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_last                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_of                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__value                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__value__2                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__year                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__sleepB                                       b~test_74hc595.o
+avr__sleep_E                                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__disable                               /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__enable                                /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__go_sleeping                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__go_sleeping_if                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__set_mode                              /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__sleep__sleep_ctrl_bits                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__sleep_mode_tN                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__sleep_mode_tS                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__stringsS                                     b~test_74hc595.o
+avr__timer0B                                      b~test_74hc595.o
+avr__timer0S                                      b~test_74hc595.o
+avr__timer0_E                                     /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__count                                /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__ctrl_reg                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__enable_interrupt_compare             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__enable_interrupt_overflow            /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__init_ctc                             /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+avr__timer0__init_normal                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__interrupt_mask                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__no_clock_source                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__no_prescaling                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__output_compare_reg                   /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__prescale_reg                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_1024                        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_128                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_256                         /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_32                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_64                          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_8                           /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_clear        /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_normal       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_set          /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_toggle       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_overflow_at                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__signal_compare                       /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__signal_overflow                      /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__stop                                 /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+exit                                              /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+interfacesS                                       b~test_74hc595.o
+interfaces_E                                      /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+itoa                                              /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+lib_74hc595B                                      b~test_74hc595.o
+lib_74hc595S                                      b~test_74hc595.o
+lib_74hc595_E                                     /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  b~test_74hc595.o
+lib_74hc595__Tt_registerBIP                       /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lib_74hc595__clearregister                        /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+lib_74hc595__emptyregister                        /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+lib_74hc595__init                                 /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+lib_74hc595__init__2                              /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lib_74hc595__setregistervalue                     /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lib_74hc595__t_74hc795IP                          /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lib_74hc595__writeregister                        /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+lib_74hc595__writeregister__2                     /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/test_74hc595.o
+lib_affichageS                                    b~test_74hc595.o
+lib_affichage_E                                   /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__Tt_letterBIP                       /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_0                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_1                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_2                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_3                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_4                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_5                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_6                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_7                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_8                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_9                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_a                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_b                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_c                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_d                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_e                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_f                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_g                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_h                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_i                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_j                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_k                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_l                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_m                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_n                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_o                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_p                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_q                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_r                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_s                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_t                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_u                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_v                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_w                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_x                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_y                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__b_z                                /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lib_affichage__space                              /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_affichage.o
+lvcS                                              b~test_74hc595.o
+lvc_E                                             /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc.o
+lvc__digitalwriteB                                b~test_74hc595.o
+lvc__digitalwriteS                                b~test_74hc595.o
+lvc__digitalwrite_E                               /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                                                  b~test_74hc595.o
+lvc__digitalwrite__digitalwrite                   /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-digitalwrite.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lvc__pinmodeB                                     b~test_74hc595.o
+lvc__pinmodeS                                     b~test_74hc595.o
+lvc__pinmode_E                                    /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                                                  b~test_74hc595.o
+lvc__pinmode__pinmode                             /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pinmode.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lib_74hc595.o
+lvc__pinsS                                        b~test_74hc595.o
+lvc__pins_E                                       /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcmodeN                               /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcmodeS                               /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcniveauN                             /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcniveauS                             /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcpinsN                               /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+lvc__pins__lvcpinsS                               /home/helipse/Dropbox/AdaProg/AdaProg/35_7 - 74HC595 affichage lettres/objects/lvc-pins.o
+main                                              b~test_74hc595.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+strrev                                            /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a(itoa.o)
+systemS                                           b~test_74hc595.o
+system_E                                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__always_compatible_rep                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__backend_divide_checks                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__backend_overflow_checks                   /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__bit_orderN                                /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__bit_orderS                                /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__command_line_args                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__configurable_run_time                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__default_bit_order                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__default_priority                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__denorm                                    /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__duration_32_bits                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__exit_status_supported                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__fractional_fixed_ops                      /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__frontend_layout                           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__gcc_zcx_support                           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__machine_overflows                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__machine_rounds                            /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__max_interrupt_priority                    /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__max_priority                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__nameN                                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__nameS                                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__null_address                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__preallocated_stacks                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__run_time_name                             /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__signed_zeros                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_default                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_limits                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_probes                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_aggregates                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_composite_assign                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_composite_compare                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_long_shifts                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__suppress_standard_library                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__system_name                               /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__unsigned_typesS                           b~test_74hc595.o
+system__unsigned_types_E                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+system__unsigned_types__packed_bytes1IP           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+system__use_ada_main_program_name                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__zcx_by_default                            /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+test_74hc595B                                     b~test_74hc595.o

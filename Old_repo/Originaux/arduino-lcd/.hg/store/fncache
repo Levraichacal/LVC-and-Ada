@@ -1,0 +1,6 @@
+data/lcd.gpr.i
+data/lcd.ads.i
+data/lcd.adb.i
+data/lcd_test.adb.i
+data/lcd-wiring.ads.i
+data/Makefile.i

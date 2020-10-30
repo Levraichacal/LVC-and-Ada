@@ -1,0 +1,49 @@
+-- Ports numériques
+subtype LVC_pins is string;
+D0 : LVC_pins renames MCU.DDRD_Bits (0);
+D1 : LVC_pins renames MCU.DDRD_Bits (1);
+D2 : LVC_pins renames MCU.DDRD_Bits (2);
+D3 : LVC_pins renames MCU.DDRD_Bits (3);
+D4 : LVC_pins renames MCU.DDRD_Bits (4);
+D5 : LVC_pins renames MCU.DDRD_Bits (5);
+D6 : LVC_pins renames MCU.DDRD_Bits (6);
+D7 : LVC_pins renames MCU.DDRD_Bits (7);
+D8 : LVC_pins renames MCU.DDRB_Bits (0);
+D9 : LVC_pins renames MCU.DDRB_Bits (1);
+D10 : LVC_pins renames MCU.DDRB_Bits (2);
+D11 : LVC_pins renames MCU.DDRB_Bits (3);
+D12 : LVC_pins renames MCU.DDRB_Bits (4);
+D13 : LVC_pins renames MCU.DDRB_Bits (5);
+
+-- Ports analogiques
+A0 : LVC_pins renames MCU.DDRC_Bits (0);
+A1 : LVC_pins renames MCU.DDRC_Bits (1);
+A2 : LVC_pins renames MCU.DDRC_Bits (2);
+A3 : LVC_pins renames MCU.DDRC_Bits (3);
+A4 : LVC_pins renames MCU.DDRC_Bits (4);
+A5 : LVC_pins renames MCU.DDRC_Bits (5);
+
+
+D0 : Constant MCU.DDRD := MCU.DDRD_Bits (0);
+D1 : Constant MCU.DDRD := MCU.DDRD_Bits (1);
+D2 : Constant MCU.DDRD := MCU.DDRD_Bits (2);
+D3 : Constant MCU.DDRD := MCU.DDRD_Bits (3);
+D4 : Constant MCU.DDRD := MCU.DDRD_Bits (4);
+D5 : Constant MCU.DDRD := MCU.DDRD_Bits (5);
+D6 : Constant MCU.DDRD := MCU.DDRD_Bits (6);
+D7 : Constant MCU.DDRD := MCU.DDRD_Bits (7);
+D8 : Constant MCU.DDRB := MCU.DDRB_Bits (0);
+D9 : Constant MCU.DDRB := MCU.DDRB_Bits (1);
+D10 : Constant MCU.DDRB := MCU.DDRB_Bits (2);
+D11 : Constant MCU.DDRB := MCU.DDRB_Bits (3);
+D12 : Constant MCU.DDRB := MCU.DDRB_Bits (4);
+D13 : Constant MCU.DDRB := MCU.DDRB_Bits (5);
+
+-- Ports analogiques
+A0 : Constant MCU.DDRC := MCU.DDRC_Bits (0);
+A1 : Constant MCU.DDRC := MCU.DDRC_Bits (1);
+A2 : Constant MCU.DDRC := MCU.DDRC_Bits (2);
+A3 : Constant MCU.DDRC := MCU.DDRC_Bits (3);
+A4 : Constant MCU.DDRC := MCU.DDRC_Bits (4);
+A5 : Constant MCU.DDRC := MCU.DDRC_Bits (5);
+

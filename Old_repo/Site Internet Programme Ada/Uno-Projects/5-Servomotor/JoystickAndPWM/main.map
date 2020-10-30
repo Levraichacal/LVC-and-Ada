@@ -1,0 +1,783 @@
+Archive member included because of file (symbol)
+
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                              /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o (exit)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                              /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o (__tablejump2__)
+/opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                              b~servopwm.o (__do_copy_data)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x0000000000000000        0x0 b~servopwm.o
+ .data          0x0000000000000000        0x0 b~servopwm.o
+ .bss           0x0000000000000000        0x0 b~servopwm.o
+ .rodata.avr__atmega328pS
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.avr__mcuS
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.systemS
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.system__unsigned_typesS
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.interfacesS
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.avrS   0x0000000000000000        0x4 b~servopwm.o
+ .rodata.avrB   0x0000000000000000        0x4 b~servopwm.o
+ .rodata.adaS   0x0000000000000000        0x4 b~servopwm.o
+ .rodata.gpioS  0x0000000000000000        0x4 b~servopwm.o
+ .rodata.gpioB  0x0000000000000000        0x4 b~servopwm.o
+ .rodata.servopwmB
+                0x0000000000000000        0x4 b~servopwm.o
+ .rodata.__gnat_ada_main_program_name
+                0x0000000000000000        0xe b~servopwm.o
+ .rodata.__gnat_version
+                0x0000000000000000       0x14 b~servopwm.o
+ .data.ada_main_E
+                0x0000000000000000        0x2 b~servopwm.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .data.ada_E    0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .data.interfaces_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__gcc_zcx_support
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__zcx_by_default
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__use_ada_main_program_name
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__suppress_standard_library
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__always_compatible_rep
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_long_shifts
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_compare
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_assign
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__support_aggregates
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_limits
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_probes
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_default
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__signed_zeros
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__preallocated_stacks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__machine_rounds
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__machine_overflows
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__frontend_layout
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__fractional_fixed_ops
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__exit_status_supported
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__duration_32_bits
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__denorm
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__configurable_run_time
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__command_line_args
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__backend_overflow_checks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__backend_divide_checks
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__run_time_name
+                0x0000000000000000       0x1b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__default_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__max_interrupt_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__max_priority
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__default_bit_order
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderN
+                0x0000000000000000        0x3 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderS
+                0x0000000000000000       0x1f /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__null_address
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__system_name
+                0x0000000000000000        0x1 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__nameN
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .rodata.system__nameS
+                0x0000000000000000       0x10 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .data.system_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .text.system__unsigned_types__packed_bytes1IP
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .data.system__unsigned_types_E
+                0x0000000000000000        0x2 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__digitalwrite
+                0x0000000000000000       0xf2 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .progmem.gcc_sw_table.gpio__digitalwrite
+                0x0000000000000000       0x28 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__analogwrite
+                0x0000000000000000       0x56 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__setanalogreference
+                0x0000000000000000        0x6 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__analogreferenceN
+                0x0000000000000000        0x4 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__analogreferenceS
+                0x0000000000000000       0x17 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__lvcmodeN
+                0x0000000000000000        0x5 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__lvcmodeS
+                0x0000000000000000       0x20 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__lvcpinsN
+                0x0000000000000000       0x17 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .rodata.gpio__lvcpinsS
+                0x0000000000000000       0x30 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .data          0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .bss           0x0000000000000000        0x0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .text          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+LOAD b~servopwm.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+LOAD /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+LOAD /opt/avrada/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/libgnat.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/libc.a
+LOAD /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x63c
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ .progmem.gcc_sw_table.gpio__pinmode
+                0x0000000000000068       0x28 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .progmem.gcc_sw_table.gpio__digitalread
+                0x0000000000000090       0x28 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ *(.progmem*)
+                0x00000000000000b8                . = ALIGN (0x2)
+                0x00000000000000b8                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000000000000b8        0x0 linker stubs
+ *(.trampolines*)
+                0x00000000000000b8                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x00000000000000b8                __ctors_start = .
+ *(.ctors)
+                0x00000000000000b8                __ctors_end = .
+                0x00000000000000b8                __dtors_start = .
+ *(.dtors)
+                0x00000000000000b8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x00000000000000b8        0x0 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000000000b8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x00000000000000b8        0xc /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x00000000000000c4       0x16 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                0x00000000000000c4                __do_copy_data
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000000000000da        0x4 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000000000000de        0x2 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+                0x00000000000000de                __vector_22
+                0x00000000000000de                __vector_1
+                0x00000000000000de                __vector_24
+                0x00000000000000de                __vector_12
+                0x00000000000000de                __bad_interrupt
+                0x00000000000000de                __vector_6
+                0x00000000000000de                __vector_3
+                0x00000000000000de                __vector_23
+                0x00000000000000de                __vector_25
+                0x00000000000000de                __vector_11
+                0x00000000000000de                __vector_13
+                0x00000000000000de                __vector_17
+                0x00000000000000de                __vector_19
+                0x00000000000000de                __vector_7
+                0x00000000000000de                __vector_5
+                0x00000000000000de                __vector_4
+                0x00000000000000de                __vector_9
+                0x00000000000000de                __vector_2
+                0x00000000000000de                __vector_21
+                0x00000000000000de                __vector_15
+                0x00000000000000de                __vector_8
+                0x00000000000000de                __vector_14
+                0x00000000000000de                __vector_10
+                0x00000000000000de                __vector_16
+                0x00000000000000de                __vector_18
+                0x00000000000000de                __vector_20
+                0x00000000000000e0                . = ALIGN (0x2)
+ *(.text.*)
+ .text.adainit  0x00000000000000e0       0x14 b~servopwm.o
+                0x00000000000000e0                adainit
+ .text.startup.main
+                0x00000000000000f4        0x4 b~servopwm.o
+                0x00000000000000f4                main
+ .text.gpio__init_timer0
+                0x00000000000000f8       0x1a /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__init_timer1
+                0x0000000000000112       0x2a /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__init_timer2
+                0x000000000000013c       0x1e /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .text.gpio__pinmode
+                0x000000000000015a      0x28a /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                0x000000000000015a                gpio__pinmode
+ .text.gpio__digitalread
+                0x00000000000003e4       0x8e /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                0x00000000000003e4                gpio__digitalread
+ .text.gpio__analogread
+                0x0000000000000472      0x116 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                0x0000000000000472                gpio__analogread
+ .text.gpio__pwmwrite
+                0x0000000000000588       0x76 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                0x0000000000000588                gpio__pwmwrite
+ .text._ada_servopwm
+                0x00000000000005fe       0x2e /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+                0x00000000000005fe                _ada_servopwm
+ .text.libgcc   0x000000000000062c        0xc /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                0x000000000000062c                __tablejump2__
+                0x0000000000000630                __tablejump__
+                0x0000000000000638                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000000000000638        0x0 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                0x0000000000000638                exit
+                0x0000000000000638                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x0000000000000638        0x4 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x000000000000063c                _etext = .
+
+.data           0x0000000000800100        0x6 load address 0x000000000000063c
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.gpio_E   0x0000000000800100        0x2 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                0x0000000000800100                gpio_E
+ .data.gpio__timer2_init
+                0x0000000000800102        0x1 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .data.gpio__timer0_init
+                0x0000000000800103        0x1 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .data.gpio__timer1_init
+                0x0000000000800104        0x1 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .data.gpio__analogref
+                0x0000000000800105        0x1 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ *(.rodata)
+ *(.rodata*)
+ *(.gnu.linkonce.d*)
+                0x0000000000800106                . = ALIGN (0x2)
+                0x0000000000800106                _edata = .
+                0x0000000000800106                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800106        0x0
+                0x0000000000800106                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ *(COMMON)
+                0x0000000000800106                PROVIDE (__bss_end, .)
+                0x000000000000063c                __data_load_start = LOADADDR (.data)
+                0x0000000000000642                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x0000000000800106        0x0
+                0x0000000000800106                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x0000000000800106                PROVIDE (__noinit_end, .)
+                0x0000000000800106                _end = .
+                0x0000000000800106                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000      0x6cc
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+
+.stabstr        0x0000000000000000       0x54
+ *(.stabstr)
+ .stabstr       0x0000000000000000       0x54 /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 b~servopwm.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .comment       0x0000000000000000       0x12 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .comment       0x0000000000000000       0x12 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x158
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 b~servopwm.o
+ .debug_aranges
+                0x0000000000000028       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_aranges
+                0x0000000000000040       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_aranges
+                0x0000000000000058       0x18 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_aranges
+                0x0000000000000070       0x68 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_aranges
+                0x00000000000000d8       0x20 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .debug_aranges
+                0x00000000000000f8       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000118       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_aranges
+                0x0000000000000138       0x20 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x14f5
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x21f b~servopwm.o
+ .debug_info    0x000000000000021f       0x61 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_info    0x0000000000000280      0x308 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_info    0x0000000000000588       0x72 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_info    0x00000000000005fa      0xb3d /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_info    0x0000000000001137      0x205 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .debug_info    0x000000000000133c       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_info    0x00000000000013cf       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_info    0x0000000000001462       0x93 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000      0x48d
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xe2 b~servopwm.o
+ .debug_abbrev  0x00000000000000e2       0x28 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_abbrev  0x000000000000010a       0x95 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_abbrev  0x000000000000019f       0x1b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_abbrev  0x00000000000001ba      0x1e0 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_abbrev  0x000000000000039a       0xb7 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .debug_abbrev  0x0000000000000451       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x0000000000000465       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_abbrev  0x0000000000000479       0x14 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+
+.debug_line     0x0000000000000000      0x65d
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0xd2 b~servopwm.o
+ .debug_line    0x00000000000000d2        0x0 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ .debug_line    0x00000000000000d2       0x1a /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+ .debug_line    0x00000000000000ec       0x36 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+ .debug_line    0x0000000000000122       0x1a /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_line    0x000000000000013c      0x328 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_line    0x0000000000000464       0xc6 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+ .debug_line    0x000000000000052a       0x62 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+ .debug_line    0x000000000000058c       0x66 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+ .debug_line    0x00000000000005f2       0x6b /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+
+.debug_frame    0x0000000000000000      0x130
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 b~servopwm.o
+ .debug_frame   0x0000000000000034       0x24 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+ .debug_frame   0x0000000000000058       0xb4 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_frame   0x000000000000010c       0x24 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+
+.debug_str      0x0000000000000000     0x1ccb
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x2f1 b~servopwm.o
+                                        0x308 (size before relaxing)
+ .debug_str     0x00000000000002f1      0x13b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+                                        0x149 (size before relaxing)
+ .debug_str     0x000000000000042c      0x442 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+                                        0x4b7 (size before relaxing)
+ .debug_str     0x000000000000086e      0x19b /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+                                        0x1fe (size before relaxing)
+ .debug_str     0x0000000000000a09     0x123c /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                       0x12de (size before relaxing)
+ .debug_str     0x0000000000001c45       0x86 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+                                        0x213 (size before relaxing)
+
+.debug_loc      0x0000000000000000      0x741
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000      0x6e5 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_loc     0x00000000000006e5       0x5c /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(/home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/servopwm.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000       0x80
+ .debug_ranges  0x0000000000000000       0x18 b~servopwm.o
+ .debug_ranges  0x0000000000000018       0x58 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+ .debug_ranges  0x0000000000000070       0x10 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+
+Cross Reference Table
+
+Symbol                                            File
+__bad_interrupt                                   /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__data_end                                        /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+__do_copy_data                                    /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_copy_data.o)
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+                                                  b~servopwm.o
+__gnat_ada_main_program_name                      b~servopwm.o
+__gnat_version                                    b~servopwm.o
+__heap_end                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__init                                            /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__stack                                           /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__tablejump2__                                    /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+__tablejump__                                     /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_tablejump.o)
+__vector_1                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+_ada_servopwm                                     /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+                                                  b~servopwm.o
+_exit                                             /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+adaS                                              b~servopwm.o
+ada_E                                             /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/ada.o
+ada_main_E                                        b~servopwm.o
+adainit                                           b~servopwm.o
+avrB                                              b~servopwm.o
+avrS                                              b~servopwm.o
+avr__atmega328pS                                  b~servopwm.o
+avr__mcuS                                         b~servopwm.o
+exit                                              /opt/avrada/lib/gcc/avr/4.7.0/avr5/libgcc.a(_exit.o)
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+gpioB                                             b~servopwm.o
+gpioS                                             b~servopwm.o
+gpio_E                                            /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                                  b~servopwm.o
+gpio__analogread                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+gpio__analogreferenceN                            /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__analogreferenceS                            /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__analogwrite                                 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__digitalread                                 /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__digitalwrite                                /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__lvcmodeN                                    /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__lvcmodeS                                    /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__lvcpinsN                                    /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__lvcpinsS                                    /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+gpio__pinmode                                     /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+gpio__pwmwrite                                    /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+                                                  /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/servopwm.o
+gpio__setanalogreference                          /home/helipse/Dropbox/AdaProg/AdaProg/Site Internet Programme Ada/Uno-Projects/5-Servomotor/JoystickAndPWM/objects/gpio.o
+interfacesS                                       b~servopwm.o
+interfaces_E                                      /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/interfac.o
+main                                              b~servopwm.o
+                                                  /opt/avrada/lib/gcc/avr/4.7.0/../../../../avr/lib/avr5/crtm328p.o
+servopwmB                                         b~servopwm.o
+systemS                                           b~servopwm.o
+system_E                                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__always_compatible_rep                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__backend_divide_checks                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__backend_overflow_checks                   /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__bit_orderN                                /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__bit_orderS                                /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__command_line_args                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__configurable_run_time                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__default_bit_order                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__default_priority                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__denorm                                    /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__duration_32_bits                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__exit_status_supported                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__fractional_fixed_ops                      /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__frontend_layout                           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__gcc_zcx_support                           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__machine_overflows                         /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__machine_rounds                            /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__max_interrupt_priority                    /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__max_priority                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__nameN                                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__nameS                                     /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__null_address                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__preallocated_stacks                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__run_time_name                             /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__signed_zeros                              /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_default                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_limits                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__stack_check_probes                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_aggregates                        /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_composite_assign                  /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_composite_compare                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__support_long_shifts                       /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__suppress_standard_library                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__system_name                               /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__unsigned_typesS                           b~servopwm.o
+system__unsigned_types_E                          /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+system__unsigned_types__packed_bytes1IP           /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/s-unstyp.o
+system__use_ada_main_program_name                 /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o
+system__zcx_by_default                            /opt/avrada/lib/gcc/avr/4.7.0/rts/avr5/adalib/system.o

@@ -1,0 +1,9 @@
+Not found
+=========
+
+:slug: 404
+:status: hidden
+
+The page you were asking for was not found.
+
+Try starting from `the index page <http://arduino.ada-language.com/>`_.

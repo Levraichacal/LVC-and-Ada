@@ -1,0 +1,12 @@
+data/ds1307.adb.i
+data/lcd.ads.i
+data/lcd-wiring.ads.i
+data/lcd.adb.i
+data/two_wire.ads.i
+data/ds1307.ads.i
+data/lcd3310.ads.i
+data/main.adb.i
+data/lcd3310.adb.i
+data/Makefile.i
+data/two_wire.adb.i
+data/main.gpr.i

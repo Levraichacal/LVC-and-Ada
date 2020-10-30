@@ -1,0 +1,1 @@
+pelican -s pelican.conf.py -t theme -o output contents

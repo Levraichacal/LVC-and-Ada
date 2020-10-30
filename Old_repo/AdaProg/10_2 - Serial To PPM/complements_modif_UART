@@ -1,0 +1,134 @@
+      if (numReceived) then
+         case servoPin is
+            -- 8 bits de poids fort du servo 1
+            when A1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := A2;
+            -- 8 bits de poids faible du servo 1 et obtention de la valeur du ppm
+            when A2 =>
+               servo_width_temp(1) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(1) >= PWM_Min) and (servo_width_temp(1) <= PWM_Max)) then
+                  servo_width(1) := servo_width_temp(1);
+--               else
+--                  servo_width(1) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- 8 servo 2
+            when B1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := B2;
+            when B2 =>
+               servo_width_temp(2) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(2) >= PWM_Min) and (servo_width_temp(2) <= PWM_Max)) then
+                  servo_width(2) := servo_width_temp(2);
+--               else
+--                  servo_width(2) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- 8 servo 3
+            when C1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := C2;
+            when C2 =>
+               servo_width_temp(3) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(3) >= PWM_Min) and (servo_width_temp(3) <= PWM_Max)) then
+                  servo_width(3) := servo_width_temp(3);
+--               else
+--                  servo_width(3) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- servo 4
+            when D1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := D2;
+            when D2 =>
+               servo_width_temp(4) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(4) >= PWM_Min) and (servo_width_temp(4) <= PWM_Max)) then
+                  servo_width(4) := servo_width_temp(4);
+--               else
+--                  servo_width(4) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- servo 5
+            when E1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := E2;
+            when E2 =>
+               servo_width_temp(5) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(5) >= PWM_Min) and (servo_width_temp(5) <= PWM_Max)) then
+                  servo_width(5) := servo_width_temp(5);
+--               else
+--                  servo_width(5) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- servo 6
+            when F1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := F2;
+            when F2 =>
+               servo_width_temp(6) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(6) >= PWM_Min) and (servo_width_temp(6) <= PWM_Max)) then
+                  servo_width(6) := servo_width_temp(6);
+--               else
+--                  servo_width(6) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- servo 7
+            when G1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := G2;
+            when G2 =>
+               servo_width_temp(7) := temp*255 + U8_To_U16(MCU.UDR0);
+--               if ((servo_width_temp(7) >= PWM_Min) and (servo_width_temp(7) <= PWM_Max)) then
+                  servo_width(7) := servo_width_temp(7);
+--               else
+--                  servo_width(7) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            -- servo 8
+            when H1 =>
+               temp := U8_To_U16(MCU.UDR0);
+               servoPin := H2;
+            when H2 =>
+               servo_width_temp(8) := temp*255 + U8_To_U16(MCU.UDR0);
+--              if ((servo_width_temp(8) >= PWM_Min) and (servo_width_temp(8) <= PWM_Max)) then
+                  servo_width(8) := servo_width_temp(8);
+--               else
+--                  servo_width(8) := PWM_Safe;
+--               end if;
+               numReceived := False;
+            when others =>
+               null; -- Normalement, on ne rentre jamais la!
+         end case;
+      else
+         Data := U8_To(MCU.UDR0);
+         case Data is
+            when 'a' =>
+               servoPin := A1;
+               numReceived := True;
+            when 'b' =>
+               servoPin := B1;
+               numReceived := True;
+            when 'c' =>
+               servoPin := C1;
+               numReceived := True;
+            when 'd' =>
+               servoPin := D1;
+               numReceived := True;
+            when 'e' =>
+               servoPin := E1;
+               numReceived := True;
+            when 'f' =>
+               servoPin := F1;
+               numReceived := True;
+            when 'g' =>
+               servoPin := G1;
+               numReceived := True;
+            when 'h' =>
+               servoPin := H1;
+               numReceived := True;
+            when others =>
+               digitalWrite(D13, High_lvl);
+               numReceived := False;
+         end case;
+      end if;

@@ -1,0 +1,7 @@
+data/lcd.gpr.i
+data/soft_spi.adb.i
+data/soft_spi.ads.i
+data/lcd3310.ads.i
+data/main.adb.i
+data/lcd3310.adb.i
+data/Makefile.i

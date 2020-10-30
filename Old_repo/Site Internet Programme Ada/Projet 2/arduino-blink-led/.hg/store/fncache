@@ -1,0 +1,4 @@
+data/.hgignore.i
+data/Makefile.i
+data/blink.gpr.i
+data/blink.adb.i

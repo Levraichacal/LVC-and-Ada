@@ -1,0 +1,16 @@
+
+
+   -- Procedure to write an analog level on a nomport. The level should be between
+   -- 0 and 511 and it works for D9 and D10.
+   -- For D3, D5, D6 and D11, the value write is val = (value + 1)/2 -1
+   -- For the others, when the value is under 256 it's off, and when the
+   -- value is above or equal 256 it's on.
+   procedure AnalogWrite1(nomPort : lvcPins; value : Unsigned_16);
+
+
+   -- Procedure to write an analog level on a nomport. The level should be between
+   -- 0 and 1023 and it works for D9 and D10.
+   -- For D3, D5, D6 and D11, the value write is val = (value + 1)/4 -1
+   -- For the others, when the value is under 512 it's off, and when the
+   -- value is above or equal 512 it's on.
+   procedure AnalogWrite2(nomPort : lvcPins; value : Unsigned_16);

@@ -1,0 +1,1876 @@
+Archive member included because of file (symbol)
+
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                              /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o (avr__uart__init)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                              b~main.o (avr__real_time__clock_impl___elabb)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                              /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o (ada__calendar__delays__delay_for)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (avr__real_time__Oadd)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (_ada_avr__real_time__clock)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o) (avr__int_img__u8_hex_img)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o) (avr__timer0__init_ctc)
+/opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o) (avr__sleep__set_mode)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__usmulhisi3)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__muluhisi3)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__mulshisi3)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__mulsi3)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o) (__udivmodqi4)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o (__udivmodhi4)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o) (__divmodsi4)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o (exit)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                              b~main.o (__do_copy_data)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                              /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o (__do_clear_bss)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o) (__umulhisi3)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o) (__udivmodsi4)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o) (itoa)
+/opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o) (strrev)
+
+Discarded input sections
+
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+ .text          0x0000000000000000        0x0 b~main.o
+ .data          0x0000000000000000        0x0 b~main.o
+ .bss           0x0000000000000000        0x0 b~main.o
+ .rodata.hc_sr04S
+                0x0000000000000000        0x4 b~main.o
+ .rodata.hc_sr04B
+                0x0000000000000000        0x4 b~main.o
+ .rodata.system__storage_elementsS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.system__storage_elementsB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.system__machine_codeS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__programspaceS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__programspaceB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__uart_configS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__uartS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__uartB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__sleepS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__sleepB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__atmega328pS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__mcuS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.ada__exceptionsS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.ada__exceptionsB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__timer0S
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__timer0B
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__interruptsS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__interruptsB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__configS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__clock_implS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__clock_implB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__clockS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__clockB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__delaysS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_time__delaysB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__stringsS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__int_imgS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__int_imgB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_timeS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avr__real_timeB
+                0x0000000000000000        0x4 b~main.o
+ .rodata.systemS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.system__unsigned_typesS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.avrS   0x0000000000000000        0x4 b~main.o
+ .rodata.avrB   0x0000000000000000        0x4 b~main.o
+ .rodata.interfacesS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.adaS   0x0000000000000000        0x4 b~main.o
+ .rodata.ada__calendarS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.ada__calendar__delaysS
+                0x0000000000000000        0x4 b~main.o
+ .rodata.mainB  0x0000000000000000        0x4 b~main.o
+ .rodata.__gnat_ada_main_program_name
+                0x0000000000000000        0xa b~main.o
+ .rodata.__gnat_version
+                0x0000000000000000       0x14 b~main.o
+ .data.ada_main_E
+                0x0000000000000000        0x2 b~main.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .data.ada_E    0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .data.ada__calendar_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .data.interfaces_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__gcc_zcx_support
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__zcx_by_default
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__use_ada_main_program_name
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__suppress_standard_library
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__always_compatible_rep
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__support_long_shifts
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_compare
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__support_composite_assign
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__support_aggregates
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_limits
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_probes
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__stack_check_default
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__signed_zeros
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__preallocated_stacks
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__machine_rounds
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__machine_overflows
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__frontend_layout
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__fractional_fixed_ops
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__exit_status_supported
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__duration_32_bits
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__denorm
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__configurable_run_time
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__command_line_args
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__backend_overflow_checks
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__backend_divide_checks
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__run_time_name
+                0x0000000000000000       0x1b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__default_priority
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__max_interrupt_priority
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__max_priority
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__default_bit_order
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderN
+                0x0000000000000000        0x3 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__bit_orderS
+                0x0000000000000000       0x1f /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__null_address
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__system_name
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__nameN
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .rodata.system__nameS
+                0x0000000000000000       0x10 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .data.system_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .text.__gnat_last_chance_handler
+                0x0000000000000000        0xa /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .text.ada__exceptions__raise_exception
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .data.ada__exceptions__reset
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .rodata.ada__exceptions__null_id
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .data.ada__exceptions_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .text.system__machine_code__asm_input_operand_listIP
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .text.system__machine_code__asm_output_operand_listIP
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .rodata.system__machine_code__no_output_operands
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .rodata.system__machine_code__no_input_operands
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .data.system__machine_code_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__storage_arrayIP
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__dummy_communication_blockIP
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__to_address
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__to_integer
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__Oadd
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__Oadd__2
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__Osubtract
+                0x0000000000000000        0xa /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__Osubtract__2
+                0x0000000000000000        0xa /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text.system__storage_elements__Omod
+                0x0000000000000000       0x24 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .data.system__storage_elements_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .text.system__unsigned_types__packed_bytes1IP
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .data.system__unsigned_types_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .text.ada__calendar__delays__timeIP
+                0x0000000000000000       0x54 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .data.ada__calendar__delays_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .text          0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .data          0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .bss           0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .text          0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .data          0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .bss           0x0000000000000000        0x0 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__init_interrupt_read
+                0x0000000000000000       0x66 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put__3
+                0x0000000000000000       0x42 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__Oadd
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put_c
+                0x0000000000000000       0x1c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put_line__2
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put__5
+                0x0000000000000000       0x62 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put__6
+                0x0000000000000000       0xaa /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put__8
+                0x0000000000000000       0x38 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__get_raw
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__get
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__get_raw__2
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__have_input
+                0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__get_line
+                0x0000000000000000       0x78 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .bss.avr__uart__rx_outx
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__receive_mode
+                0x0000000000000000        0x1 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__receive_mode_tN
+                0x0000000000000000        0x3 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__receive_mode_tS
+                0x0000000000000000        0xf /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_115200_20mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_76800_20mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_38400_20mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_19200_20mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_9600_20mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_115200_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_76800_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_57600_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_38400_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_19200_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_9600_16mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_115200_14_7mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_57600_12mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_19200_12mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_9600_12mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_4800_12mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_38400_8mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_19200_8mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_9600_8mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_4800_8mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_19200_4mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_4800_4mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_2400_4mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_4800_1mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .rodata.avr__uart__baud_1200_1mhz
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .data.avr__uart_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__timeIP
+                0x0000000000000000       0x54 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__julian_day
+                0x0000000000000000      0x15c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__julian_date
+                0x0000000000000000      0x17e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__hour
+                0x0000000000000000       0xb2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__minute
+                0x0000000000000000       0xe8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__sub_second
+                0x0000000000000000      0x106 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__second
+                0x0000000000000000       0xbe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds
+                0x0000000000000000       0x20 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds_of
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split
+                0x0000000000000000      0x10c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split__3
+                0x0000000000000000       0x3c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__split__2
+                0x0000000000000000       0x7a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__day
+                0x0000000000000000       0x24 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__month
+                0x0000000000000000       0x26 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__year
+                0x0000000000000000       0x26 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__day_of_week
+                0x0000000000000000       0x68 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_of
+                0x0000000000000000       0x96 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Oadd__2
+                0x0000000000000000       0x8e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Osubtract
+                0x0000000000000000       0x7a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Osubtract__2
+                0x0000000000000000       0xd0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Ole
+                0x0000000000000000       0x86 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Oge
+                0x0000000000000000       0x8c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__Olt
+                0x0000000000000000       0x3e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__microseconds
+                0x0000000000000000       0x1c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__milliseconds
+                0x0000000000000000       0x18 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__seconds__2
+                0x0000000000000000       0x1c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__minutes
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__hours
+                0x0000000000000000       0x10 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata        0x0000000000000000       0x34 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__image
+                0x0000000000000000       0x6c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_image
+                0x0000000000000000       0x48 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__time_image_short
+                0x0000000000000000       0x48 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__date_image
+                0x0000000000000000       0x30 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__date_image_short
+                0x0000000000000000       0x36 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__millisec_image
+                0x0000000000000000       0xec /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__millisec_image__2
+                0x0000000000000000       0x40 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__image__2
+                0x0000000000000000       0x48 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__fract_image
+                0x0000000000000000       0x18 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__value
+                0x0000000000000000       0x40 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text.avr__real_time__value__2
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__sum_days_in_month
+                0x0000000000000000       0x18 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__day_nameN
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__day_nameS
+                0x0000000000000000       0x32 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__time_last
+                0x0000000000000000        0x6 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__time_first
+                0x0000000000000000        0x6 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .rodata.avr__real_time__tick
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .data.avr__real_time_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_c
+                0x0000000000000000       0x4c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_right
+                0x0000000000000000       0x3a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img_99_right
+                0x0000000000000000       0x16 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u16_img_right
+                0x0000000000000000       0xae /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text.avr__int_img__u8_img
+                0x0000000000000000       0x9a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .data.avr__int_img_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__no_clock_source
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__no_prescaling
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_8
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_32
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_64
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_128
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_256
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__scale_by_1024
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__init_normal
+                0x0000000000000000       0x16 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_normal
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_toggle
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_set
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_output_compare_mode_clear
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__stop
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__enable_interrupt_compare
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__enable_interrupt_overflow
+                0x0000000000000000        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text.avr__timer0__set_overflow_at
+                0x0000000000000000        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__interrupt_mask
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__prescale_reg
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__ctrl_reg
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__output_compare_reg
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__signal_overflow
+                0x0000000000000000        0xb /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__signal_compare
+                0x0000000000000000        0xb /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.avr__timer0__count
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .data.avr__timer0_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.C5b.1521
+                0x0000000000000000       0x1f /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .rodata.C10b.1532
+                0x0000000000000000       0x20 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__enable
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__disable
+                0x0000000000000000        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__go_sleeping
+                0x0000000000000000       0x10 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text.avr__sleep__go_sleeping_if
+                0x0000000000000000       0x1a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_ctrl_bits
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_mode_tN
+                0x0000000000000000        0x7 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .rodata.avr__sleep__sleep_mode_tS
+                0x0000000000000000       0x42 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .data.avr__sleep_E
+                0x0000000000000000        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000        0xe /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x16 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x10 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x38 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.mul
+                0x0000000000000000       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.div
+                0x0000000000000000       0x44 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text.avr-libc
+                0x0000000000000000       0x42 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+ .text          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .data          0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .bss           0x0000000000000000        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+ .text.avr-libc
+                0x0000000000000000       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x0000000000000000 0x0000000000020000 xr
+data             0x0000000000800060 0x000000000000ffa0 rw !x
+eeprom           0x0000000000810000 0x0000000000010000 rw !x
+fuse             0x0000000000820000 0x0000000000000400 rw !x
+lock             0x0000000000830000 0x0000000000000400 rw !x
+signature        0x0000000000840000 0x0000000000000400 rw !x
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+LOAD b~main.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+LOAD /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+LOAD /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+LOAD /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/libgnat.a
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a
+LOAD /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x0000000000000000      0x970
+ *(.vectors)
+ .vectors       0x0000000000000000       0x68 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000000                __vectors
+                0x0000000000000000                __vector_default
+ *(.vectors)
+ *(.progmem.gcc*)
+ *(.progmem*)
+                0x0000000000000068                . = ALIGN (0x2)
+                0x0000000000000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x0000000000000068        0x0 linker stubs
+ *(.trampolines*)
+                0x0000000000000068                __trampolines_end = .
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000000000000068                __ctors_start = .
+ *(.ctors)
+                0x0000000000000068                __ctors_end = .
+                0x0000000000000068                __dtors_start = .
+ *(.dtors)
+                0x0000000000000068                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000000000000068        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+                0x0000000000000068                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000000000000068        0xc /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000000000000074       0x16 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                0x0000000000000074                __do_copy_data
+ .init4         0x000000000000008a       0x10 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                0x000000000000008a                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x000000000000009a        0x4 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+ *(.init9)
+ *(.text)
+ .text          0x000000000000009e        0x2 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+                0x000000000000009e                __vector_22
+                0x000000000000009e                __vector_1
+                0x000000000000009e                __vector_24
+                0x000000000000009e                __vector_12
+                0x000000000000009e                __bad_interrupt
+                0x000000000000009e                __vector_6
+                0x000000000000009e                __vector_23
+                0x000000000000009e                __vector_25
+                0x000000000000009e                __vector_11
+                0x000000000000009e                __vector_13
+                0x000000000000009e                __vector_17
+                0x000000000000009e                __vector_19
+                0x000000000000009e                __vector_5
+                0x000000000000009e                __vector_4
+                0x000000000000009e                __vector_9
+                0x000000000000009e                __vector_2
+                0x000000000000009e                __vector_21
+                0x000000000000009e                __vector_15
+                0x000000000000009e                __vector_8
+                0x000000000000009e                __vector_10
+                0x000000000000009e                __vector_16
+                0x000000000000009e                __vector_20
+                0x00000000000000a0                . = ALIGN (0x2)
+ *(.text.*)
+ .text.adainit  0x00000000000000a0       0x4c b~main.o
+                0x00000000000000a0                adainit
+ .text.startup.main
+                0x00000000000000ec        0x4 b~main.o
+                0x00000000000000ec                main
+ .text.__vector_3
+                0x00000000000000f0       0xb2 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                0x00000000000000f0                __vector_3
+ .text.hc_sr04__init_hc_sr04
+                0x00000000000001a2       0x64 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                0x00000000000001a2                hc_sr04__init_hc_sr04
+ .text.hc_sr04__getdistance
+                0x0000000000000206       0x28 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                0x0000000000000206                hc_sr04__getdistance
+ .text.__vector_7
+                0x000000000000022e       0x36 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                0x000000000000022e                __vector_7
+ .text.startup._ada_main
+                0x0000000000000264       0x26 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+                0x0000000000000264                _ada_main
+ .text.avr__uart__init_common
+                0x000000000000028a       0x20 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x000000000000028a                avr__uart__init_common
+ .text.avr__uart__init
+                0x00000000000002aa        0xa /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x00000000000002aa                avr__uart__init
+ .text.avr__uart__put_raw
+                0x00000000000002b4        0xe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x00000000000002b4                avr__uart__put_raw
+ .text.avr__uart__put__5.part.0
+                0x00000000000002c2       0x20 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .text.avr__uart__put__2
+                0x00000000000002e2       0x60 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x00000000000002e2                avr__uart__put__2
+ .text.avr__uart__new_line
+                0x0000000000000342        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x0000000000000342                avr__uart__new_line
+ .text.avr__uart__put_line
+                0x0000000000000346        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x0000000000000346                avr__uart__put_line
+ .text.avr__uart__crlf
+                0x000000000000034a        0x8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x000000000000034a                avr__uart__crlf
+ .text.avr__uart__put__7
+                0x0000000000000352       0xa2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x0000000000000352                avr__uart__put__7
+ .text.__vector_18
+                0x00000000000003f4       0x86 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x00000000000003f4                __vector_18
+ .text.__vector_14
+                0x000000000000047a       0x76 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x000000000000047a                __vector_14
+ .text.avr__real_time__clock_impl___elabb
+                0x00000000000004f0        0xa /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x00000000000004f0                avr__real_time__clock_impl___elabb
+ .text.ada__calendar__delays__delay_until
+                0x00000000000004fa       0x9c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x00000000000004fa                ada__calendar__delays__delay_until
+ .text.ada__calendar__delays__delay_for
+                0x0000000000000596       0xa0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x0000000000000596                ada__calendar__delays__delay_for
+ .text.avr__real_time__Oadd
+                0x0000000000000636       0x9a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                0x0000000000000636                avr__real_time__Oadd
+ .text.avr__real_time__Ogt
+                0x00000000000006d0       0x82 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                0x00000000000006d0                avr__real_time__Ogt
+ .text._ada_avr__real_time__clock
+                0x0000000000000752       0x42 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                0x0000000000000752                _ada_avr__real_time__clock
+ .text.avr__int_img__nibble_hex_img
+                0x0000000000000794        0xc /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                0x0000000000000794                avr__int_img__nibble_hex_img
+ .text.avr__int_img__u8_hex_img
+                0x00000000000007a0       0x2a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                0x00000000000007a0                avr__int_img__u8_hex_img
+ .text.avr__int_img__u32_img
+                0x00000000000007ca       0x80 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                0x00000000000007ca                avr__int_img__u32_img
+ .text.avr__int_img__u16_img
+                0x000000000000084a       0x82 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                0x000000000000084a                avr__int_img__u16_img
+ .text.avr__timer0__init_ctc
+                0x00000000000008cc       0x1a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                0x00000000000008cc                avr__timer0__init_ctc
+ .text.avr__sleep__set_mode
+                0x00000000000008e6       0x5e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                0x00000000000008e6                avr__sleep__set_mode
+ .text.libgcc.div
+                0x0000000000000944       0x28 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                0x0000000000000944                __udivmodhi4
+                0x000000000000096c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000000000000096c        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                0x000000000000096c                exit
+                0x000000000000096c                _exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000000000000096c        0x4 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ *(.fini0)
+                0x0000000000000970                _etext = .
+
+.data           0x0000000000800100       0x98 load address 0x0000000000000970
+                0x0000000000800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ .data.hc_sr04_E
+                0x0000000000800100        0x2 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                0x0000000000800100                hc_sr04_E
+ .data.avr__uart__rx_buf
+                0x0000000000800102        0x4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x0000000000800102                avr__uart__rx_buf
+ .data.avr__real_time__clock_impl_E
+                0x0000000000800106        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x0000000000800106                avr__real_time__clock_impl_E
+ .data.avr__real_time__delays_E
+                0x0000000000800108        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                0x0000000000800108                avr__real_time__delays_E
+ .data.avr__real_time__clock_E
+                0x000000000080010a        0x2 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                0x000000000080010a                avr__real_time__clock_E
+ *(.rodata)
+ .rodata        0x000000000080010c       0x1e /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .rodata        0x000000000080012a       0x49 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ *(.rodata*)
+ .rodata.avr__int_img__dig_32
+                0x0000000000800173       0x24 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ *(.gnu.linkonce.d*)
+                0x0000000000800198                . = ALIGN (0x2)
+ *fill*         0x0000000000800197        0x1 00
+                0x0000000000800198                _edata = .
+                0x0000000000800198                PROVIDE (__data_end, .)
+
+.bss            0x0000000000800198        0xd
+                0x0000000000800198                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.hc_sr04__stated11
+                0x0000000000800198        0x1 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .bss.hc_sr04__firstvalue
+                0x0000000000800199        0x1 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .bss.hc_sr04__starttime
+                0x000000000080019a        0x2 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .bss.hc_sr04__time
+                0x000000000080019c        0x2 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .bss.avr__uart__rx_inx
+                0x000000000080019e        0x1 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                0x000000000080019e                avr__uart__rx_inx
+ .bss.avr__real_time__clock_impl__now
+                0x000000000080019f        0x6 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                0x000000000080019f                avr__real_time__clock_impl__now
+ *(COMMON)
+                0x00000000008001a5                PROVIDE (__bss_end, .)
+                0x0000000000000970                __data_load_start = LOADADDR (.data)
+                0x0000000000000a08                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00000000008001a5        0x0
+                0x00000000008001a5                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00000000008001a5                PROVIDE (__noinit_end, .)
+                0x00000000008001a5                _end = .
+                0x00000000008001a5                PROVIDE (__heap_start, .)
+
+.eeprom         0x0000000000810000        0x0
+ *(.eeprom*)
+                0x0000000000810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.stab           0x0000000000000000      0x7bc
+ *(.stab)
+ .stab          0x0000000000000000      0x6cc /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+ .stab          0x00000000000006cc       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                        0x1bc (size before relaxing)
+ .stab          0x00000000000006e4       0xd8 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                         0xe4 (size before relaxing)
+
+.stabstr        0x0000000000000000       0xb4
+ *(.stabstr)
+ .stabstr       0x0000000000000000       0xb4 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000       0x11
+ *(.comment)
+ .comment       0x0000000000000000       0x11 b~main.o
+                                         0x12 (size before relaxing)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .comment       0x0000000000000000       0x12 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .comment       0x0000000000000000       0x12 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .comment       0x0000000000000000       0x12 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000      0x6f0
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000       0x28 b~main.o
+ .debug_aranges
+                0x0000000000000028       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .debug_aranges
+                0x0000000000000040       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .debug_aranges
+                0x0000000000000058       0x28 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_aranges
+                0x0000000000000080       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .debug_aranges
+                0x0000000000000098       0x60 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_aranges
+                0x00000000000000f8       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .debug_aranges
+                0x0000000000000110       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .debug_aranges
+                0x0000000000000128       0x38 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_aranges
+                0x0000000000000160       0x20 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_aranges
+                0x0000000000000180       0xd8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_aranges
+                0x0000000000000258       0x28 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_aranges
+                0x0000000000000280       0x28 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_aranges
+                0x00000000000002a8      0x160 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_aranges
+                0x0000000000000408       0x20 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_aranges
+                0x0000000000000428       0x60 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_aranges
+                0x0000000000000488       0xa8 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_aranges
+                0x0000000000000530       0x40 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_aranges
+                0x0000000000000570       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_aranges
+                0x0000000000000590       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .debug_aranges
+                0x00000000000005b0       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .debug_aranges
+                0x00000000000005d0       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .debug_aranges
+                0x00000000000005f0       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_aranges
+                0x0000000000000610       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_aranges
+                0x0000000000000630       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .debug_aranges
+                0x0000000000000650       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .debug_aranges
+                0x0000000000000670       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .debug_aranges
+                0x0000000000000690       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .debug_aranges
+                0x00000000000006b0       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .debug_aranges
+                0x00000000000006d0       0x20 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000     0x5254
+ *(.debug_info)
+ .debug_info    0x0000000000000000      0x500 b~main.o
+ .debug_info    0x0000000000000500       0x61 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .debug_info    0x0000000000000561      0x308 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .debug_info    0x0000000000000869      0x1bb /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_info    0x0000000000000a24       0x8c /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .debug_info    0x0000000000000ab0      0x1ff /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_info    0x0000000000000caf       0x72 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .debug_info    0x0000000000000d21       0x2e /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .debug_info    0x0000000000000d4f      0x2d7 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_info    0x0000000000001026      0x252 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_info    0x0000000000001278     0x106a /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_info    0x00000000000022e2      0x145 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_info    0x0000000000002427      0x24e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_info    0x0000000000002675     0x13bb /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_info    0x0000000000003a30       0xa9 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_info    0x0000000000003ad9      0x7d4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_info    0x00000000000042ad      0x512 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_info    0x00000000000047bf      0x279 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_info    0x0000000000004a38       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_info    0x0000000000004ae5       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .debug_info    0x0000000000004b92       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .debug_info    0x0000000000004c3f       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .debug_info    0x0000000000004cec       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_info    0x0000000000004d99       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_info    0x0000000000004e46       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .debug_info    0x0000000000004ef3       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .debug_info    0x0000000000004fa0       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .debug_info    0x000000000000504d       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .debug_info    0x00000000000050fa       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .debug_info    0x00000000000051a7       0xad /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+ *(.gnu.linkonce.wi.*)
+
+.debug_abbrev   0x0000000000000000     0x1a17
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000       0xf4 b~main.o
+ .debug_abbrev  0x00000000000000f4       0x28 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .debug_abbrev  0x000000000000011c       0x95 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .debug_abbrev  0x00000000000001b1      0x149 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_abbrev  0x00000000000002fa       0x4d /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .debug_abbrev  0x0000000000000347       0x92 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_abbrev  0x00000000000003d9       0x1b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .debug_abbrev  0x00000000000003f4       0x1d /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .debug_abbrev  0x0000000000000411      0x12e /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_abbrev  0x000000000000053f      0x183 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_abbrev  0x00000000000006c2      0x4fe /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_abbrev  0x0000000000000bc0      0x12c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_abbrev  0x0000000000000cec      0x1af /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_abbrev  0x0000000000000e9b      0x372 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_abbrev  0x000000000000120d       0x8c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_abbrev  0x0000000000001299      0x279 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_abbrev  0x0000000000001512      0x22f /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_abbrev  0x0000000000001741      0x1e6 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_abbrev  0x0000000000001927       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_abbrev  0x000000000000193b       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .debug_abbrev  0x000000000000194f       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .debug_abbrev  0x0000000000001963       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .debug_abbrev  0x0000000000001977       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_abbrev  0x000000000000198b       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_abbrev  0x000000000000199f       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .debug_abbrev  0x00000000000019b3       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .debug_abbrev  0x00000000000019c7       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .debug_abbrev  0x00000000000019db       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .debug_abbrev  0x00000000000019ef       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .debug_abbrev  0x0000000000001a03       0x14 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_line     0x0000000000000000     0x1d74
+ *(.debug_line)
+ .debug_line    0x0000000000000000       0x9c b~main.o
+ .debug_line    0x000000000000009c        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ .debug_line    0x000000000000009c        0x0 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ .debug_line    0x000000000000009c       0x1a /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+ .debug_line    0x00000000000000b6       0x36 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+ .debug_line    0x00000000000000ec       0x76 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_line    0x0000000000000162       0x38 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .debug_line    0x000000000000019a       0xc7 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_line    0x0000000000000261       0x1a /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .debug_line    0x000000000000027b       0x1a /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .debug_line    0x0000000000000295      0x170 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_line    0x0000000000000405      0x1a5 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_line    0x00000000000005aa      0x497 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_line    0x0000000000000a41      0x106 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_line    0x0000000000000b47      0x1ad /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_line    0x0000000000000cf4      0x484 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_line    0x0000000000001178       0xc1 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_line    0x0000000000001239      0x1bd /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_line    0x00000000000013f6      0x2cd /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_line    0x00000000000016c3      0x18e /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+ .debug_line    0x0000000000001851       0x66 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+ .debug_line    0x00000000000018b7       0x6a /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+ .debug_line    0x0000000000001921       0x66 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+ .debug_line    0x0000000000001987       0x6f /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+ .debug_line    0x00000000000019f6       0x6c /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+ .debug_line    0x0000000000001a62       0x74 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+ .debug_line    0x0000000000001ad6       0x7b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+ .debug_line    0x0000000000001b51       0x62 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+ .debug_line    0x0000000000001bb3       0x6b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+ .debug_line    0x0000000000001c1e       0x68 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+ .debug_line    0x0000000000001c86       0x6c /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+ .debug_line    0x0000000000001cf2       0x82 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+
+.debug_frame    0x0000000000000000     0x1048
+ *(.debug_frame)
+ .debug_frame   0x0000000000000000       0x34 b~main.o
+ .debug_frame   0x0000000000000034       0x34 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_frame   0x0000000000000068       0x34 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+ .debug_frame   0x000000000000009c       0xa4 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_frame   0x0000000000000140       0x24 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+ .debug_frame   0x0000000000000164       0x34 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ .debug_frame   0x0000000000000198       0xb8 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_frame   0x0000000000000250       0x24 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_frame   0x0000000000000274      0x2e4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_frame   0x0000000000000558       0x58 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_frame   0x00000000000005b0       0x90 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_frame   0x0000000000000640      0x6f4 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_frame   0x0000000000000d34       0x34 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_frame   0x0000000000000d68      0x148 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_frame   0x0000000000000eb0      0x134 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_frame   0x0000000000000fe4       0x64 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug_str      0x0000000000000000     0x36f6
+ *(.debug_str)
+ .debug_str     0x0000000000000000      0x785 b~main.o
+                                        0x7a1 (size before relaxing)
+ .debug_str     0x0000000000000785      0x14c /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+                                        0x15a (size before relaxing)
+ .debug_str     0x00000000000008d1      0x442 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+                                        0x4c8 (size before relaxing)
+ .debug_str     0x0000000000000d13      0x104 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+                                        0x1be (size before relaxing)
+ .debug_str     0x0000000000000e17      0x133 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+                                        0x1a7 (size before relaxing)
+ .debug_str     0x0000000000000f4a      0x1bd /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+                                        0x24d (size before relaxing)
+ .debug_str     0x0000000000001107      0x19b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+                                        0x20f (size before relaxing)
+ .debug_str     0x00000000000012a2       0x1b /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+                                         0xac (size before relaxing)
+ .debug_str     0x00000000000012bd      0x340 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                        0x3cb (size before relaxing)
+ .debug_str     0x00000000000015fd      0x154 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+                                        0x297 (size before relaxing)
+ .debug_str     0x0000000000001751      0x96c /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                        0xbbf (size before relaxing)
+ .debug_str     0x00000000000020bd      0x1a6 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                        0x20c (size before relaxing)
+ .debug_str     0x0000000000002263      0x216 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                        0x3b0 (size before relaxing)
+ .debug_str     0x0000000000002479      0x7ae /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                        0xa23 (size before relaxing)
+ .debug_str     0x0000000000002c27       0x5d /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                        0x15e (size before relaxing)
+ .debug_str     0x0000000000002c84      0x2c5 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                        0x4c4 (size before relaxing)
+ .debug_str     0x0000000000002f49      0x654 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                        0x7b7 (size before relaxing)
+ .debug_str     0x000000000000359d      0x159 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                        0x374 (size before relaxing)
+
+.debug_loc      0x0000000000000000     0x3ac9
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000       0x90 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_loc     0x0000000000000090      0x17a /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_loc     0x000000000000020a      0x14c /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_loc     0x0000000000000356      0xbdd /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_loc     0x0000000000000f33       0xbf /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_loc     0x0000000000000ff2      0x15f /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_loc     0x0000000000001151     0x2151 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_loc     0x00000000000032a2       0x48 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_loc     0x00000000000032ea      0x710 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_loc     0x00000000000039fa       0x42 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_loc     0x0000000000003a3c       0x8d /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+OUTPUT(/home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/main.elf elf32-avr)
+LOAD linker stubs
+
+.debug_ranges   0x0000000000000000      0x500
+ .debug_ranges  0x0000000000000000       0x18 b~main.o
+ .debug_ranges  0x0000000000000018       0x18 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ .debug_ranges  0x0000000000000030       0x50 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+ .debug_ranges  0x0000000000000080       0x28 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+ .debug_ranges  0x00000000000000a8       0x10 /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ .debug_ranges  0x00000000000000b8      0x128 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+ .debug_ranges  0x00000000000001e0       0x18 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+ .debug_ranges  0x00000000000001f8       0x18 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ .debug_ranges  0x0000000000000210      0x168 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+ .debug_ranges  0x0000000000000378       0x10 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+ .debug_ranges  0x0000000000000388       0xb0 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+ .debug_ranges  0x0000000000000438       0x98 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+ .debug_ranges  0x00000000000004d0       0x30 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__bad_interrupt                                   /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__bss_end                                         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+__bss_start                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+__data_end                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__data_load_start                                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__data_start                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+__divmodsi4                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__do_clear_bss                                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_clear_bss.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+__do_copy_data                                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_copy_data.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+                                                  b~main.o
+__gnat_ada_main_program_name                      b~main.o
+__gnat_last_chance_handler                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+__gnat_version                                    b~main.o
+__heap_end                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__init                                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__mulohisi3                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__mulshisi3                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__mulsi3                                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__muluhisi3                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulsi3.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_mulshisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__stack                                           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__udivmodhi4                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodhi4.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+__udivmodqi4                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodqi4.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+__udivmodsi4                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_udivmodsi4.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_divmodsi4.o)
+__umulhisi3                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_umulhisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_muluhisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+__usmulhisi3                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+__usmulhisi3_tail                                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_usmulhisi3.o)
+__vector_1                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_10                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_11                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_12                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_13                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_14                                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_15                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_16                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_17                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_18                                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_19                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_2                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_20                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_21                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_22                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_23                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_24                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_25                                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_3                                        /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_4                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_5                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_6                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_7                                        /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_8                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_9                                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vector_default                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+__vectors                                         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+_ada_avr__real_time__clock                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+_ada_main                                         /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+                                                  b~main.o
+_exit                                             /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+_hex_img::avr__int_img(void) __restrict           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+adaS                                              b~main.o
+ada_E                                             /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/ada.o
+ada__calendarS                                    b~main.o
+ada__calendar_E                                   /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-calend.o
+ada__calendar__delaysS                            b~main.o
+ada__calendar__delays_E                           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ada__calendar__delays__delay_for                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+ada__calendar__delays__delay_until                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+ada__calendar__delays__timeIP                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-caldel.o
+ada__exceptionsB                                  b~main.o
+ada__exceptionsS                                  b~main.o
+ada__exceptions_E                                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ada__exceptions__null_id                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ada__exceptions__raise_exception                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ada__exceptions__reset                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/a-except.o
+ada_main_E                                        b~main.o
+adainit                                           b~main.o
+avr(short, long,...)(...)(signed *)               b~main.o
+avrB                                              b~main.o
+avrS                                              b~main.o
+avr__atmega328pS                                  b~main.o
+avr__configS                                      b~main.o
+avr__int_imgB                                     b~main.o
+avr__int_imgS                                     b~main.o
+avr__int_img_E                                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__nibble_hex_img                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u16_img                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__int_img__u16_img_right                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u32_img                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__int_img__u8_img                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__int_img__u8_img_99_right                     /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u8_img_c                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__int_img__u8_img_right                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+avr__interruptsB                                  b~main.o
+avr__interruptsS                                  b~main.o
+avr__mcuS                                         b~main.o
+avr__programspaceB                                b~main.o
+avr__programspaceS                                b~main.o
+avr__real_timeB                                   b~main.o
+avr__real_timeS                                   b~main.o
+avr__real_time_E                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Oadd                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__real_time__Oadd__2                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Oge                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Ogt                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__real_time__Ole                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Olt                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Osubtract                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__Osubtract__2                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__clockB                            b~main.o
+avr__real_time__clockS                            b~main.o
+avr__real_time__clock_E                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+                                                  b~main.o
+avr__real_time__clock_implB                       b~main.o
+avr__real_time__clock_implS                       b~main.o
+avr__real_time__clock_impl_E                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  b~main.o
+avr__real_time__clock_impl___elabb                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  b~main.o
+avr__real_time__clock_impl__now                   /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock.o)
+avr__real_time__date_image                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__date_image_short                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_nameN                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_nameS                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__day_of_week                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__delaysB                           b~main.o
+avr__real_time__delaysS                           b~main.o
+avr__real_time__delays_E                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+                                                  b~main.o
+avr__real_time__fract_image                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__hour                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__hours                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__image                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__image__2                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__julian_date                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__julian_day                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__microseconds                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__millisec_image                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__millisec_image__2                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__milliseconds                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__minute                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__minutes                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__month                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__second                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds__2                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__seconds_of                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split__2                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__split__3                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__sub_second                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__sum_days_in_month                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__tick                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__timeIP                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_first                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_image                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_image_short                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_last                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__time_of                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__value                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__value__2                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__real_time__year                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time.o)
+avr__sleepB                                       b~main.o
+avr__sleep_E                                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__disable                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__enable                                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__go_sleeping                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__go_sleeping_if                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__set_mode                              /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-delays.o)
+avr__sleep__sleep_ctrl_bits                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__sleep_mode_tN                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__sleep__sleep_mode_tS                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-sleep.o)
+avr__stringsS                                     b~main.o
+avr__timer0B                                      b~main.o
+avr__timer0S                                      b~main.o
+avr__timer0_E                                     /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__count                                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__ctrl_reg                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__enable_interrupt_compare             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__enable_interrupt_overflow            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__init_ctc                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-real_time-clock_impl.o)
+avr__timer0__init_normal                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__interrupt_mask                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__no_clock_source                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__no_prescaling                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__output_compare_reg                   /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__prescale_reg                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_1024                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_128                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_256                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_32                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_64                          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__scale_by_8                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_clear        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_normal       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_set          /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_output_compare_mode_toggle       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__set_overflow_at                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__signal_compare                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__signal_overflow                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__timer0__stop                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-timer0.o)
+avr__uart(char, long double, long, float)         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+avr__uartB                                        b~main.o
+avr__uartS                                        b~main.o
+avr__uart_E                                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__Oadd                                   /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_115200_14_7mhz                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_115200_16mhz                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_115200_20mhz                      /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_1200_1mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_19200_12mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_19200_16mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_19200_20mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_19200_4mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_19200_8mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_2400_4mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_38400_16mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_38400_20mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_38400_8mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_4800_12mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_4800_1mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_4800_4mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_4800_8mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_57600_12mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_57600_16mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_76800_16mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_76800_20mhz                       /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_9600_12mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_9600_16mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_9600_20mhz                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__baud_9600_8mhz                         /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__get                                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__get_line                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__get_raw                                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__get_raw__2                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__have_input                             /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__init                                   /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+avr__uart__init_common                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__init_interrupt_read                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__new_line                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put                                    /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put__2                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+avr__uart__put__3                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put__5                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put__6                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put__7                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+avr__uart__put__8                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put_c                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put_line                               /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put_line__2                            /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__put_raw                                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__receive_mode                           /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__receive_mode_tN                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__receive_mode_tS                        /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__rx_buf                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__rx_inx                                 /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart__rx_outx                                /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-uart.o)
+avr__uart_configS                                 b~main.o
+exit                                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/avr5/libgcc.a(_exit.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+hc_sr04B                                          b~main.o
+hc_sr04S                                          b~main.o
+hc_sr04_E                                         /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  b~main.o
+hc_sr04__getdistance                              /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+hc_sr04__init_hc_sr04                             /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/hc_sr04.o
+                                                  /home/touneseb/Dropbox/AdaProg/AdaProg/30_2 - HC SR04/objects/main.o
+interfacesS                                       b~main.o
+interfaces_E                                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/interfac.o
+itoa                                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+                                                  /opt/avr-ada/avr-ada-122/avr/lib/gnat/avr_lib/atmega328p/lib/libavrada.a(avr-int_img.o)
+main                                              b~main.o
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/crtm328p.o
+mainB                                             b~main.o
+strrev                                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(strrev.o)
+                                                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/../../../../avr/lib/avr5/libc.a(itoa.o)
+systemS                                           b~main.o
+system_E                                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__always_compatible_rep                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__backend_divide_checks                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__backend_overflow_checks                   /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__bit_orderN                                /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__bit_orderS                                /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__command_line_args                         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__configurable_run_time                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__default_bit_order                         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__default_priority                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__denorm                                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__duration_32_bits                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__exit_status_supported                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__fractional_fixed_ops                      /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__frontend_layout                           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__gcc_zcx_support                           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__machine_codeS                             b~main.o
+system__machine_code_E                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+system__machine_code__asm_input_operand_listIP    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+system__machine_code__asm_output_operand_listIP   /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+system__machine_code__no_input_operands           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+system__machine_code__no_output_operands          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-maccod.o
+system__machine_overflows                         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__machine_rounds                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__max_interrupt_priority                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__max_priority                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__nameN                                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__nameS                                     /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__null_address                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__preallocated_stacks                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__run_time_name                             /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__signed_zeros                              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__stack_check_default                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__stack_check_limits                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__stack_check_probes                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__storage_elementsB                         b~main.o
+system__storage_elementsS                         b~main.o
+system__storage_elements_E                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__Oadd                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__Oadd__2                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__Omod                    /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__Osubtract               /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__Osubtract__2            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__dummy_communication_blockIP /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__storage_arrayIP         /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__to_address              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__storage_elements__to_integer              /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-stoele.o
+system__support_aggregates                        /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__support_composite_assign                  /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__support_composite_compare                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__support_long_shifts                       /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__suppress_standard_library                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__system_name                               /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__unsigned_typesS                           b~main.o
+system__unsigned_types_E                          /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+system__unsigned_types__packed_bytes1IP           /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/s-unstyp.o
+system__use_ada_main_program_name                 /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o
+system__zcx_by_default                            /opt/avr-ada/avr-ada-122/lib/gcc/avr/4.7.2/rts/avr5/adalib/system.o

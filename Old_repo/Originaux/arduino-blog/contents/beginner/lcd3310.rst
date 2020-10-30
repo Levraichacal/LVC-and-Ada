@@ -1,0 +1,101 @@
+Displaying Characters on MOD-LCD3310 by using Olimexino-328 with Ada
+====================================================================
+
+:date: 2013-03-18 23:00
+:tags: nokia3310, display, lcd, olimexino
+
+
+MOD-LCD3310_ is Nokia 3310 display clone from Olimex_. It provides
+black and white screen with 84x48 resolution, which is a great choice
+if `7-segment display`_ or 2x16 `LCD <http://tero.stronglytyped.org/building-custom-arduino-lcd-shield-to-be-used-with-avr-ada.html>`_ isn't enough.
+
+MOD-LCD3310_ uses UEXT_ connector found from almost every Olimex board.
+In case you don't have one, you can follow the `UEXT specification`_
+and just connect the pins.
+
+Like how I have done with Olinuxino-imx233 micro board:
+
+.. image:: http://farm9.staticflickr.com/8378/8558541586_886db86a8b.jpg
+   :target: http://www.flickr.com/photos/terokoskinen/8558541586/
+
+
+But as you notice, it is easier to simply use a board with header,
+for example `Olimexino-328 <https://www.olimex.com/Products/Duino/AVR/OLIMEXINO-328/>`_,
+which is Arduino clone from Olimex.
+
+.. image:: http://farm9.staticflickr.com/8508/8569259734_b297af173d.jpg
+   :target: http://www.flickr.com/photos/terokoskinen/8569259734/
+
+
+
+Code
+----
+
+To prevent extra work, I simply translated Olinuxino-imx233 `C example`_ made by
+Olimex to Ada. **NOTE**: Because of this the code is distributed under **GPLv2+**,
+while I normally distribute the code under GMGPL or ISC.
+
+You can find the Ada version from my `arduino-mod-lcd3310 repository`_.
+
+The package specification is simple:
+
+
+::
+
+   package LCD3310 is
+      use Interfaces;
+
+      X_Resolution : constant := 84;
+      Y_Resolution : constant := 48;
+
+      type X_Coords is new Unsigned_16 range 1 .. X_Resolution;
+      type Y_Coords is new Unsigned_16 range 1 .. Y_Resolution;
+
+      type Column_Index is new Unsigned_8 range 1 .. X_Resolution / 8;
+      type Row_Index is new Unsigned_8 range 1 .. Y_Resolution / 8;
+
+      procedure Init;
+      procedure Update;
+      procedure Clear;
+      procedure Draw_Char (Ch : Character;
+                           X_Pos : Column_Index;
+                           Y_Pos : Row_Index);
+      procedure Draw_Pixel (X_Pos : X_Coords; Y_Pos : Y_Coords);
+      procedure Draw_Line (X1 : X_Coords; Y1 : Y_Coords;
+                           X2 : X_Coords; Y2 : Y_Coords);
+
+      procedure Put_Line (Str : AVR.Strings.AVR_String; Y_Pos : Row_Index);
+   end LCD3310;
+
+And it can be used like this:
+
+::
+
+   -- Initialize the module
+   LCD3310.Init;
+
+   -- Clear the screen
+   LCD3310.Clear;
+
+   -- Draw one character
+   LCD3310.Draw_Char ('X', 1, 1);
+
+   -- Draw a line
+   LCD3310.Draw_Line (10, 10, 80, 40);
+
+   -- Actually draw thing on the screen.
+   -- The screen is not updated before Update call.
+   LCD3310.Update;
+
+Now, just add some buttons and you are ready make a roguelike_, for example.
+
+
+
+.. _MOD-LCD3310: https://www.olimex.com/Products/Modules/LCD/MOD-LCD3310/
+.. _Olimex: https://www.olimex.com/
+.. _7-segment display: http://arduino.ada-language.com/controlling-4-digit-7-segment-display.html
+.. _UEXT: https://www.olimex.com/Products/Modules/UEXT/
+.. _UEXT specification: https://www.olimex.com/Products/Modules/UEXT/resources/UEXT_rev_B.pdf
+.. _C example: https://github.com/OLIMEX/OLINUXINO/tree/master/SOFTWARE/iMX233/MOD-LCD3310
+.. _arduino-mod-lcd3310 repository: https://bitbucket.org/tkoskine/arduino-mod-lcd3310
+.. _roguelike: http://en.wikipedia.org/wiki/Roguelike

@@ -1,0 +1,135 @@
+      case Pin_Mask is
+         -- Channel 7
+         when 16#04# =>
+            MCU.PCMSK2_Bits(MCU.PCINT18_Bit) := False;
+            if (PORTD_Stat(2)) then
+               servo_start(7) := time;
+            else
+               servo_width(7) := (65535 + time - servo_start(7));
+            end if;
+            MCU.PCMSK2_Bits(MCU.PCINT18_Bit) := True;
+
+         -- Channel 8
+         when 16#08# =>
+            MCU.PCMSK2_Bits(MCU.PCINT19_Bit) := False;
+            if (PORTD_Stat(3)) then
+               servo_start(8) := time;
+            else
+               servo_width(8) := (65535 + time - servo_start(8));
+            end if;
+            MCU.PCMSK2_Bits(MCU.PCINT19_Bit) := True;
+
+         when others => null;
+      end case;
+      
+      
+      case Pin_Mask is
+         -- Channel 1
+         when 16#01# =>
+            MCU.PCMSK1_Bits(MCU.PCINT8_Bit) := False;
+            if (PORTC_Stat(0)) then
+               servo_start(1) := time;
+            else
+               servo_width(1) := (65535 + time - servo_start(1));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT8_Bit) := True;
+
+         -- Channel 2
+         when 16#02# =>
+            MCU.PCMSK1_Bits(MCU.PCINT9_Bit) := False;
+            if (PORTC_Stat(1)) then
+               servo_start(2) := time;
+            else
+               servo_width(2) := (65535 + time - servo_start(2));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT9_Bit) := True;
+
+         -- Channel 3
+         when 16#04# =>
+            MCU.PCMSK1_Bits(MCU.PCINT10_Bit) := False;
+            if (PORTC_Stat(2)) then
+               servo_start(3) := time;
+            else
+               servo_width(3) := (65535 + time - servo_start(3));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT10_Bit) := True;
+
+         -- Channel 4
+         when 16#08# =>
+            MCU.PCMSK1_Bits(MCU.PCINT11_Bit) := False;
+            if (PORTC_Stat(3)) then
+               servo_start(4) := time;
+            else
+               servo_width(4) := (65535 + time - servo_start(4));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT11_Bit) := True;
+
+         -- Channel 5
+         when 16#10# =>
+            MCU.PCMSK1_Bits(MCU.PCINT12_Bit) := False;
+            if (PORTC_Stat(4)) then
+               servo_start(5) := time;
+            else
+               servo_width(5) := (65535 + time - servo_start(5));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT12_Bit) := True;
+
+         -- Channel 6
+         when 16#20# =>
+            MCU.PCMSK1_Bits(MCU.PCINT13_Bit) := False;
+            if (PORTC_Stat(5)) then
+               servo_start(6) := time;
+            else
+               servo_width(6) := (65535 + time - servo_start(6));
+            end if;
+            MCU.PCMSK1_Bits(MCU.PCINT13_Bit) := True;
+
+         when others =>-- null;
+            servo_width := (999,999,0,200,0,100,0,0);
+      end case;      
+      
+      
+
+   procedure affichage (byt : Bits_In_Byte) is
+   begin
+      if(byt(7)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(6)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(5)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(4)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(3)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(2)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(1)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+      if(byt(0)) then
+         AVR.UART.Put('1');
+      else
+         AVR.UART.Put('0');
+      end if;
+   end affichage;

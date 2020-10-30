@@ -1,0 +1,7 @@
+project DS18B20 extends "avr_app" is
+	for Main use ("main.adb");
+	for Object_Dir use "objects";
+	for Exec_Dir use ".";
+
+	for Source_Dirs use (".");
+end DS18B20;

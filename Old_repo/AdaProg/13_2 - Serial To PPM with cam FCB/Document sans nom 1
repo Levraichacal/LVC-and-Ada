@@ -1,0 +1,9 @@
+
+         when I1 =>
+            WriteOCR1B (MCU.OCR1B + PPM_Inter_Lengh);
+            Frameleft := Frameleft - PPM_Inter_Lengh;
+            numeroServo := I2;
+         when I2 =>
+            WriteOCR1B (MCU.OCR1B + servo_width(9) - PPM_Inter_Lengh);
+            Frameleft := Frameleft - servo_width(9);
+            numeroServo := Z1;

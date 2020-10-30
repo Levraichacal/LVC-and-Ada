@@ -1,0 +1,8 @@
+project Test_74hc595 extends "avr_app" is
+	for Main use ("test_74hc595.adb");
+	for Object_Dir use "objects";
+	for Exec_Dir use ".";
+
+	for Source_Dirs use (".");
+
+end Test_74hc595;

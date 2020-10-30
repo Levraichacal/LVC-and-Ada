@@ -1,0 +1,8 @@
+
+project Spi_max7219 extends "avr_app" is
+	for Main use ("main.adb");
+	for Object_Dir use "objects";
+	for Exec_Dir use ".";
+
+	for Source_Dirs use (".");
+end Spi_max7219;
