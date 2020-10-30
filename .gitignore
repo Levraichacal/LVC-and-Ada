@@ -1,0 +1,10 @@
+# Files edit with gedit
+*~
+
+# Compile file
+*.o
+*.ali
+*.hex
+
+# Directories
+**/objects/
