@@ -42,28 +42,28 @@ package body LIB_74HC595 is
    procedure WriteRegister is
       temp : Boolean := False;
    begin
-      digitalWrite(D9, False);
+      digitalWrite(Rclk_74hc595, False);
       for i in Register_74hc595'Range loop
-         digitalWrite(D10, False);
+         digitalWrite(Srclk_74hc595, False);
          temp := Register_74hc595(i);
-         digitalWrite(D8, temp);
-         digitalWrite(D10, True);
+         digitalWrite(Ser_74hc595, temp);
+         digitalWrite(Srclk_74hc595, True);
       end loop;
-      digitalWrite(D9, True);
+      digitalWrite(Rclk_74hc595, True);
    end WriteRegister;
 
    procedure WriteRegister (register : T_Register) is
       temp : Boolean := False;
    begin
       Register_74hc595 := register;
-      digitalWrite(D9, False);
+      digitalWrite(Rclk_74hc595, False);
       for i in Register_74hc595'Range loop
-         digitalWrite(D10, False);
+         digitalWrite(Srclk_74hc595, False);
          temp := Register_74hc595(i);
-         digitalWrite(D8, temp);
-         digitalWrite(D10, True);
+         digitalWrite(Ser_74hc595, temp);
+         digitalWrite(Srclk_74hc595, True);
       end loop;
-      digitalWrite(D9, True);
+      digitalWrite(Rclk_74hc595, True);
    end WriteRegister;
 
    procedure SetRegisterValue (index: Integer; value : Boolean) is
