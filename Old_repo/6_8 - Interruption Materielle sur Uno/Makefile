@@ -3,7 +3,7 @@ OBJCOPY=avr-objcopy
 BIN_FORMAT=ihex
 PORT=/dev/ttyACM0
 PART=m328p
-AVRDUDE=sudo avrdude
+AVRDUDE=avrdude
 
 button.hex: button.adb main.adb Makefile
 	avr-gnatmake -p -XMCU=$(MCU) -Pbutton.gpr
