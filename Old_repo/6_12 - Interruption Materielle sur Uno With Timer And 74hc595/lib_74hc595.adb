@@ -43,7 +43,7 @@ package body LIB_74HC595 is
       temp : Boolean := False;
    begin
       digitalWrite(Rclk_74hc595, False);
-      for i in reverse Register_74hc595'Range loop
+      for i in Register_74hc595'Range loop
          digitalWrite(Srclk_74hc595, False);
          temp := Register_74hc595(i);
          digitalWrite(Ser_74hc595, temp);
@@ -57,7 +57,7 @@ package body LIB_74HC595 is
    begin
       Register_74hc595 := register;
       digitalWrite(Rclk_74hc595, False);
-      for i in Register_74hc595'Range loop
+      for i in reverse Register_74hc595'Range loop
          digitalWrite(Srclk_74hc595, False);
          temp := Register_74hc595(i);
          digitalWrite(Ser_74hc595, temp);

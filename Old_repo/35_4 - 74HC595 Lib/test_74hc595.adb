@@ -1,15 +1,16 @@
 -- Import et utilisation  des packages Ada nécessaires
 with LIB_74HC595;
 with AVR.Real_Time.Delays;
+with LVC.PINS;
 
 use LIB_74HC595;
-
+use LVC.PINS;
 -- Déclaration du programme
 
 procedure Test_74hc595 is
-   temp : T_Register := (True, True, False, True, False, True, False, True);
+    temp : T_Register := (False, True, False, True, False, True, False, True);
 begin
-   Init;
+   Init(A0, A1, A2);
    loop
       ClearRegister;
       WriteRegister;
